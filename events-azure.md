@@ -1,8 +1,8 @@
 # Speaker at Third-party Events - Microsoft Azure
 
-Number of talks: **1**
+Number of talks: **12**
 
-Number of attendees (considering all talks): **54**
+Number of attendees (considering all talks): **81**
 
 Main technologies: **Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), k9s, Visual Studio Code, .NET, ASP.NET Core**
 
@@ -10,6 +10,7 @@ The following links describe each of these talks, including links with informati
 
 | Event | Date | Description | Link | Participants |
 | ------------| ---- | ------------ | ---- | ---- |
+| Application Scalability using SQL Server, PostgreSQL, Redis and KEDA - Database Weekend 2024 | 2024-05-25 | In this presentation, I demonstrated how to scale applications in a Kubernetes cluster, using metrics obtained from SQL Server and PostgreSQL queries with KEDA (Kubernetes Event-driven Autoscaling). This talk also covered the use of Redis as an important caching solution.<br/>Technologies covered: Kubernetes, KEDA, SQL Server, PostgreSQL, Redis, Linux, Docker, .NET 8, ASP.NET Core, Entity Framework Core...<br/>This talk took place during Database Weekend 2024, an in-person event promoted by the .NET São Paulo community in São Paulo-SP. | https://github.com/DotNetSP/DatabaseWeekend-2024-05 | 27 |
 | Kubernetes: An Overview - From Pod to Deployment - Containers Weekend 2024 | 2024-04-06 | I demonstrated the use of Kubernetes and Azure Kubernetes Service as alternatives for hosting scalable and resilient applications.<br/>Technologies covered: Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), k9s, Visual Studio Code, .NET, ASP.NET Core.<br/>This talk took place during Containers Weekend 2024, an in-person event promoted by the .NET São Paulo community in São Paulo-SP. | https://github.com/DotNetSP/ContainersWeekend-2024-04| 54 |
 | ? | 0000-00-00 | ? | LINK | 0 |
 | ????????????????????????????????????????????????????????? | 0000-00-00 | Access the link for more details | https://github.com/azuretalks/Dotnet-Conf-2024-02 | 8 |
