@@ -2,14 +2,16 @@
 
 Number of talks: **2**
 
-Number of attendees (considering all talks): **81**
+Number of attendees (considering all talks) - In-person events: **81**
 
-Main technologies: **Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), k9s, Visual Studio Code, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis**
+Main technologies: **Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), k9s, Visual Studio Code, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis, Azure DevOps, GitHub Actions...**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
 | Event | Date | Description | Link | Participants |
 | ------------| ---- | ------------ | ---- | ---- |
+| Monoliths, Cloud Native and Application Modernization - Itu Developers Meetup #10 | 2024-05-25 | 
+| Presentation covering cloud native technologies, monolithic applications and software modernization.<br/> Technologies covered: Monolithic Applications, Legacy Software, Microservices, Containers, Cloud Native, Twelve Factor Apps, CNCF, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, Helm, Terraform, ARM, Bicep, Linux, Git, Azure DevOps, GitHub Actions, DevOps, DevSecOps, .NET, Node.js, Java... | https://github.com/renatogroffe/Monolitos-CloudNative-Modernizacao_ItuDevelopers-2024-09 | 30 |
 | Application Scalability using SQL Server, PostgreSQL, Redis and KEDA - Database Weekend 2024 | 2024-05-25 | In this presentation, I demonstrated how to scale applications in a Kubernetes cluster, using metrics obtained from SQL Server and PostgreSQL queries with KEDA (Kubernetes Event-driven Autoscaling). This talk also covered the use of Redis as an important caching solution.<br/>Technologies covered: Kubernetes, KEDA, SQL Server, PostgreSQL, Redis, Linux, Docker, .NET 8, ASP.NET Core, Entity Framework Core... | https://github.com/DotNetSP/DatabaseWeekend-2024-05 | 27 |
 | Kubernetes: An Overview - From Pod to Deployment - Containers Weekend 2024 | 2024-04-06 | I demonstrated the use of Kubernetes and Azure Kubernetes Service as alternatives for hosting scalable and resilient applications.<br/>Technologies covered: Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), k9s, Visual Studio Code, .NET, ASP.NET Core. | https://github.com/DotNetSP/ContainersWeekend-2024-04| 54 |
 | ? | 0000-00-00 | ? | LINK | 0 |
