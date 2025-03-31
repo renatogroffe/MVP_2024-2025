@@ -8,7 +8,7 @@ In-person attendees: **33**
 
 Online attendees: **0**
 
-Technologies covered: **Azure API Management, Azure App Service, Azure Container Apps, Azure Container Storage, Azure Cosmos DB, Azure Functions, Azure Kubernetes Service, Azure Networking services, Azure SQL, Azure Storage, Copilot, Cost Management, Kubernetes, Linux, Microsoft Fabric, OpenTelemetry, Power Automate, Prometheus**
+Technologies covered: **Azure Monitor, Log Analytics, Application Insights, Azure Managed Grafana, Grafana, Prometheus, Docker, Kubernetes, KEDA, Azure Kubernetes Service (AKS), Azure Container Apps, Web Development, .NET, ASP.NET Core...**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
