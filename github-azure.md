@@ -1,5 +1,8 @@
 # Repositories - Microsoft Azure
 
+
+CONTINUAR EM: https://github.com/renatogroffe?page=7&tab=repositories
+
 Number of repositories: **58**
 
 Main technologies: **Azure API Management, Azure AD B2C, Visual Studio Code ---- Kubernetes, Azure Kubernetes Service, KEDA, Azure Functions, , Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**

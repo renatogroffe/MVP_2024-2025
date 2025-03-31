@@ -1,8 +1,11 @@
 # Repositories - Developer Technologies
 
+CONTINUAR EM: https://github.com/renatogroffe?page=7&tab=repositories
+
+
 Number of repositories: **137**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, JWT, Postman, k6, SQL Server, PostgreSQL**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper**
 
 **First repository created on April 11, 2024.**
 
@@ -12,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Examples of using Dapper with .NET 8. | 2024-04-18 | https://github.com/renatogroffe/DotNet8-Dapper |
 | Example of Console App created in .NET 8 for executing SQL commands via Job in a SQL Server database. | 2024-04-11 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Job-ExecSqlCommand |
 | ???? | ???? | ???? |
 | Presentation content on OWASP API Security Top 10 held during the March-2024 edition of DevOps Experience. | 2024-03-28 | https://github.com/renatogroffe/OWASPApiTop10_DevOpsExperience-Mar2024 |
