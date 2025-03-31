@@ -1,20 +1,22 @@
 # Speaker at Third-party Events - Developer Technologies
 
-Number of talks: **1**
+Number of talks: **2**
 
-Number of attendees (considering all talks): **30**
+Number of attendees (considering all talks): **72**
 
 Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman, Elastic APM**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
 | Event | Date | Description | Participants | Link |
+| .NET 9, C# 13, ASP.NET Core - What's New in Back-End Development - DEVPIRA .NET Wknd 2025 | 2025-01-11 | Presentation covering new features of .NET 9 useful for Back-End Development.<br/> Technologies covered: .NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure, Docker, Redis... | 42 | https://github.com/renatogroffe/DotNet9_DEVPIRA-2025-01 |
 | Monoliths, Cloud Native and Application Modernization - Itu Developers Meetup #10 | 2024-09-28 | Presentation covering cloud native technologies, monolithic applications and software modernization.<br/> Technologies covered: Monolithic Applications, Legacy Software, Microservices, Git, Azure DevOps, GitHub Actions, DevOps, DevSecOps, .NET, Node.js, Java, Containers, Cloud Native, Twelve Factor Apps, CNCF, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, Helm, Terraform, ARM, Bicep, Linux... | 30 | https://github.com/renatogroffe/Monolitos-CloudNative-Modernizacao_ItuDevelopers-2024-09 |
 | ------------| ---- | ------------ | ---- | ---- |
 | OWASP API Security Top 10: recommendations for more secure APIs - DevOps Experience 2024-03 | 2024-03-28 | Online presentation covering the vulnerabilities that are part of the OWASP API Security Top 10 list, with tips, guidance and even tool suggestions to make the implementation of REST APIs safer and more reliable.<br/>Technologies used: JWT, Azure API Management, .NET 8, ASP.NET Core, Microsoft Entra ID, Azure AD B2C | https://renatogroffe.medium.com/owasp-api-security-top-10-apis-rest-mais-seguras-devops-experience-mar%C3%A7o-2024-06814dfabb24 | 116 |
+| .NET 8: useful new features for Back-End Development - DEVPIRA .NET Wknd 2024 | 2024-03-02 | Presentation covering new features of .NET 8 useful for Back-End Development.<br/>Lecture held during the March 2024 edition of DEVPIRA .NET Wknd, an event that took place in the city of Piracicaba-SP.<br/>Technologies covered: .NET 8, ASP.NET Core, C# 12, Visual Studio Code, Azure Container Apps, Application Insights, Linux | https://renatogroffe.medium.com/net-8-novidades-%C3%BAteis-para-o-desenvolvimento-back-end-devpira-net-wknd-2024-ab0156cffd9d | 70 |
+| xxx | xxxx | xxxx | xxxx | xxxxx |
 | xxx | xxxx | xxxx | xxxx | xxxxx |
 | OWASP API Security Top 10: recommendations for more secure APIs - DevOps Experience 2024-03 | 2024-03-28 | Online presentation covering the vulnerabilities that are part of the OWASP API Security Top 10 list, with tips, guidance and even tool suggestions to make the implementation of REST APIs safer and more reliable.<br/>Technologies used: JWT, Azure API Management, .NET 8, ASP.NET Core, Microsoft Entra ID, Azure AD B2C | https://renatogroffe.medium.com/owasp-api-security-top-10-apis-rest-mais-seguras-devops-experience-mar%C3%A7o-2024-06814dfabb24 | 116 |
-| .NET 8: useful new features for Back-End Development - DEVPIRA .NET Wknd 2024 | 2024-03-02 | Presentation covering new features of .NET 8 useful for Back-End Development.<br/>Lecture held during the March 2024 edition of DEVPIRA .NET Wknd, an event that took place in the city of Piracicaba-SP.<br/>Technologies covered: .NET 8, ASP.NET Core, C# 12, Visual Studio Code, Azure Container Apps, Application Insights, Linux | https://renatogroffe.medium.com/net-8-novidades-%C3%BAteis-para-o-desenvolvimento-back-end-devpira-net-wknd-2024-ab0156cffd9d | 70 |
 | Efficient Application Monitoring with Elastic APM - DevOps Experience 2024-02 | 2024-02-29 | Online presentation covering application monitoring with Elastic APM.<br/>Technologies used: .NET 8, ASP.NET Core, Elasticsearch, Elastic APM, Kibana, Redis, PostgreSQL, Entity Framework Core, Docker, Docker Compose | https://github.com/renatogroffe/ElasticAPM_DevOpsExperience-Fev2024 | 142 |
 | What's New in Back-End Development with .NET 8 and ASP.NET Core - .NET Conf 2024 .NET São Paulo | 2024-01-12 | Access the link for more details | https://github.com/DotNetSP/Dotnet-Conf-2024-01 | 28 |
 | k6: simplifying your load and performance tests - DEVPIRA Festival 2023 | 2023-12-02 | Presentation covering the implementation of load and performance tests with the k6 tool.<br/>Lecture held during the 2023 edition of DEVPIRA Festival, an event that took place in the city of Piracicaba-SP.<br/>Technologies covered: k6, Azure DevOps, Azure Pipelines Linux, .NET 8, ASP.NET Core, Azure Container Apps, Visual Studio Code | https://renatogroffe.medium.com/k6-descomplicando-seus-testes-de-carga-e-de-performance-devpira-festival-2023-c3da1994e991 | 30 |
