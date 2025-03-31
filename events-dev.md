@@ -2,11 +2,11 @@
 
 Number of talks: **2**
 
-Number of attendees (considering all talks): **72**
+Number of attendees (considering all talks): **190**
 
 In-person attendees: **72**
 
-Online attendees: **
+Online attendees: **118**
 
 Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman, Testcontainers**
 
@@ -14,7 +14,7 @@ The following links describe each of these talks, including links with informati
 
 | Event | Date | Participants | Description | Link |
 | ------------| ---- | ------------ | ---- | ---- |
-| Boosting and simplifying Integration Test automation with Testcontainers! - DevOps Experience 2024-03 | 2025-01-11 | 118 | Presentation covering the use of the Testcontainers project as an alternative to simplify the implementation of integration tests in various development stacks.<br/> Technologies and topics covered: .NET 9, SQL Server, PostgreSQL, DevOps, Integration tests, Azure DevOps, Azure Pipelines, GitHub Actions, Container, Docker, Testcontainer, Docker Compose, Linux, Python, Java, Node.js... | https://github.com/renatogroffe/Testcontainers_DevOpsExperience-2025-02 |
+| Boosting and simplifying Integration Test automation with Testcontainers! - DevOps Experience 2024-03 | 2025-01-11 | 118 | Online presentation covering the use of the Testcontainers project as an alternative to simplify the implementation of integration tests in various development stacks.<br/> Technologies and topics covered: .NET 9, SQL Server, PostgreSQL, DevOps, Integration tests, Azure DevOps, Azure Pipelines, GitHub Actions, Container, Docker, Testcontainer, Docker Compose, Linux, Python, Java, Node.js... | https://github.com/renatogroffe/Testcontainers_DevOpsExperience-2025-02 |
 | .NET 9, C# 13, ASP.NET Core - What's New in Back-End Development - DEVPIRA .NET Wknd 2025 | 2025-01-11 | 42 | Presentation covering new features of .NET 9 useful for Back-End Development.<br/> Technologies covered: .NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure, Docker, Redis... | https://github.com/renatogroffe/DotNet9_DEVPIRA-2025-01 |
 | Monoliths, Cloud Native and Application Modernization - Itu Developers Meetup #10 | 2024-09-28 | 30 | Presentation covering cloud native technologies, monolithic applications and software modernization.<br/> Technologies covered: Monolithic Applications, Legacy Software, Microservices, Git, Azure DevOps, GitHub Actions, DevOps, DevSecOps, .NET, Node.js, Java, Containers, Cloud Native, Twelve Factor Apps, CNCF, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, Helm, Terraform, ARM, Bicep, Linux... | https://github.com/renatogroffe/Monolitos-CloudNative-Modernizacao_ItuDevelopers-2024-09 |
 | aaa| aaa | aaa | aaa | sss |
