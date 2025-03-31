@@ -1,6 +1,6 @@
 # Speaker at Third-party Events - Developer Technologies
 
-Number of talks: **2**
+Number of talks: **3**
 
 Number of attendees (considering all talks): **190**
 
