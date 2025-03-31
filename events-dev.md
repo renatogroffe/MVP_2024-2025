@@ -4,7 +4,7 @@ Number of talks: **2**
 
 Number of attendees (considering all talks): **72**
 
-Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman, Elastic APM**
+Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman, Testcontainers**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
