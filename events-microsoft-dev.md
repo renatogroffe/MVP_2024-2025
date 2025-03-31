@@ -8,7 +8,7 @@ In-person attendees: **9**
 
 Online attendees: **0**
 
-Main technologies: **.NET, C#, ASP.NET Core, Microsoft Copilot Studio, Visual Studio, Visual Studio Code, GitHub Copilot, Microsoft Azure**
+Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, GitHub Copilot, OpenAPI, Microsoft Azure**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
