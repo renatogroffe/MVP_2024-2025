@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 Number of repositories: **137**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Apache Kafka**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Apache Kafka**
 
 **First repository created on April 11, 2024.**
 
@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Support materials for building iOS apps on Azure DevOps/Azure Pipelines. | 2024-05-27 | https://github.com/renatogroffe/AzureDevOps-Build-iOS |
 | Examples using (Producer + Consumer) the Tools for Apache Kafka extension with Visual Studio Code. Include Docker Compose using Kafka, Zookeeper and Kafdrop. | 2024-05-01 | https://github.com/renatogroffe/Kafka-VSCode-Producer-Consumer |
 | Examples of test implementation in .NET 8 and .NET 6 using xUnit and SpecFlow projects. | 2024-04-30 | https://github.com/renatogroffe/TDD-BDD-2024-04 |
 | Example of a REST API based on .NET 9 (Preview 3) + MinimalAPIs and that makes use of the InternalServerError method (returns error 500) provided by the TypedResults class. | 2024-04-22 | https://github.com/renatogroffe/ASPNETCore9-MinimalAPIs-TypedResults-InternalServerError_ContagemAcessos |
