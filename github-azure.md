@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 Number of repositories: **58**
 
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure AD B2C, Kubernetes, Docker, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core ---- Kubernetes, Azure Kubernetes Service, KEDA, Azure Functions, , Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core ---- Kubernetes, Azure Kubernetes Service, KEDA, Azure Functions, , Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
 
 **First repository created on April 02, 2024.**
 
@@ -13,7 +13,8 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-| Example of a REST API based on .NET 9 (Preview 3) + MinimalAPIs and that makes use of the InternalServerError method (returns error 500) provided by the TypedResults class. | 2024-04-22 | https://github.com/renatogroffe/ASPNETCore9-MinimalAPIs-TypedResults-InternalServerError_ContagemAcessos |
+| Example of a Console App created in .NET 8 and that uses the Microsoft.Identity + Graph API project for testing logins in Azure AD B2C. Includes the use of the Serilog and Sharprompt libraries (menus via command line), as well as scripts for resetting MFA with Graph API. | 2024-04-26 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI-Serilog-Sharprompt |
+| Slides and presentation content on the implementation of Multi-Factor Authentication (MFA) held on 04/25/2024, during the 2024 edition of Global Azure in São Paulo-SP. | 2024-04-25 | https://github.com/renatogroffe/MFA_GlobalAzure-SaoPaulo-2024 |
 | Examples of using OpenTelemetry with .NET 8 + ASP.NET Core + PostgreSQL + Jaeger. | 2024-04-19 | https://github.com/renatogroffe/OpenTelemetry-2024-04 |
 | Example with configurations to validate an application's Access Token using the <validate-jwt> policy from Azure API Management and an Azure AD B2C App Registration. Includes a .http script for testing with the REST Client extension in VS Code. | 2024-04-10 | https://github.com/renatogroffe/APIM-AzureADB2C-ValidateJWT |
 | Examples of new features in .NET 8, ASP.NET Core, and C#12. | 2024-04-02 | https://github.com/renatogroffe/DotNet8-2024-04 |
