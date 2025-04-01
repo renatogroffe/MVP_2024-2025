@@ -1,6 +1,6 @@
 # Speaker at Third-party Events - Microsoft Azure
 
-Number of talks: **7**
+Number of talks: **9**
 
 Number of attendees (considering all talks): **704**
 
