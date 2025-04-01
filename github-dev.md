@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Examples of test implementation in .NET 8 and .NET 6 using xUnit and SpecFlow projects. | 2024-04-30 | https://github.com/renatogroffe/TDD-BDD-2024-04 |
 | Example of a REST API based on .NET 9 (Preview 3) + MinimalAPIs and that makes use of the InternalServerError method (returns error 500) provided by the TypedResults class. | 2024-04-22 | https://github.com/renatogroffe/ASPNETCore9-MinimalAPIs-TypedResults-InternalServerError_ContagemAcessos |
 | Examples of using Dapper with .NET 8. | 2024-04-18 | https://github.com/renatogroffe/DotNet8-Dapper |
 | Example of Console App created in .NET 8 for executing SQL commands via Job in a SQL Server database. | 2024-04-11 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Job-ExecSqlCommand |
