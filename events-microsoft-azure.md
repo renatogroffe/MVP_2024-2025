@@ -1,10 +1,10 @@
 # Speaker at Microsoft Events - Microsoft Azure
 
-Number of talks: **1**
+Number of talks: **2**
 
-Number of attendees (considering all talks): **33**
+Number of attendees (considering all talks): **57**
 
-In-person attendees: **33**
+In-person attendees: **57**
 
 Online attendees: **0**
 
