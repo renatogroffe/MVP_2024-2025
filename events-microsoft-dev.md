@@ -1,10 +1,10 @@
 # Speaker at Microsoft Events - Developer Technologies
 
-Number of talks: **1**
+Number of talks: **2**
 
-Number of attendees (considering all talks): **9**
+Number of attendees (considering all talks): **29**
 
-In-person attendees: **9**
+In-person attendees: **29**
 
 Online attendees: **0**
 
@@ -14,7 +14,8 @@ The following links describe each of these talks, including links with informati
 
 | Event | Date | Participants | Description | Link |
 | ------------| ---- | ------------ | ---- | ---- |
-| .NET 9: libraries, Runtime, SDK... - .NET Conf 2024 SP | 2024-11-28 | 9 | Presentation covering new features of .NET 9.<br/> Technologies covered: .NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure... | https://github.com/renatogroffe/DotNet9_2024-11 |
+| .NET 9: libraries, Runtime, SDK... - .NET Conf 2024 SP | 2024-11-28 | 9 | Presentation covering new features of .NET 9.<br/>Technologies covered: .NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure... | https://github.com/renatogroffe/DotNet9_2024-11 |
+| Panel discussion on new features in .NET 9, C# 13, ASP.NET Core... - Meetup: .NET user group São Paulo | 2024-09-24 | 20 | Discussion panel covering new features of .NET 9 and the evolution of the .NET platform over the years.<br/>Technologies covered: .NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure... | https://github.com/renatogroffe/DotNetUserGroup-2025-09 |
 | aaa | aaa | aaa | aaa | aaa |
 | Build your own Copilots with Microsoft Copilot Studio - Microsoft AI Tour - São Paulo - 2024 | 2024-03-21 | Participation in the 2 sessions of the workshop "Build your own Copilots with Microsoft Copilot Studio", during the Microsoft AI Tour in São Paulo-SP.<br/>Technologies covered: Microsoft Copilot Studio, Power Automate, .NET, ASP.NET Core, Visual Studio 2022<br/>I acted as a Proctor in 2 sessions, helping workshop participants with questions about Microsoft Copilot Studio and developing REST APIs with .NET and Visual Studio 2022. | https://github.com/renatogroffe/CopilotStudio-MicrosoftAITour-2024 | 200 |
 | .NET São Paulo: an overview - Microsoft Reactor Meetup | 2024-03-20 | Presentation detailing activities of the .NET São Paulo community, tips for people interested in maintaining communities and also the work of our user group on various technologies (.NET, C#, ASP.NET Core, Azure, Kubernetes...). | https://github.com/renatogroffe/Meetup-MicrosoftReactor-2024-03 | 55 |
