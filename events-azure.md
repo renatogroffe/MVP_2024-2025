@@ -2,9 +2,9 @@
 
 Number of talks: **7**
 
-Number of attendees (considering all talks): **689**
+Number of attendees (considering all talks): **704**
 
-In-person attendees: **238**
+In-person attendees: **253**
 
 Online attendees: **451**
 
@@ -21,6 +21,7 @@ The following links describe each of these talks, including links with informati
 | Docker and Kubernetes: tips and tricks to simplify your life when working with containers - DevOps Experience - 2024-11 | 2024-11-28 | 187 | Online presentation with tips and tricks on using Docker containers and orchestration with Kubernetes.<br/>Technologies covered: Docker, Kubernetes, Docker Scout, Docker Compose, Azure Kubernetes Service, Linux, Grafana, Prometheus, Visual Studio Code, kind, Radius, k9s, KEDA, .NET, ASP.NET Core... | https://renatogroffe.medium.com/docker-e-kubernetes-dicas-e-truques-para-descomplicar-sua-vida-devops-experience-novembro-2024-47ffaefdb860 |
 | Kubernetes and Scalability: applications processing thousands or millions of accesses! - DEVPIRA Wknd Capivari #2 | 2024-09-14 | 72 | Presentation covering the use of the KEDA (Kubernetes Event-driven Autoscaling) project in scaling containerized applications in Kubernetes-based environments.<br/>Kubernetes, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, KEDA Cron Scaler, Helm, Linux, Microservices, DevOps, DevSecOps, .NET, ASP.NET Core, Go... | https://github.com/renatogroffe/Kubernetes_DevPiraWkndCapivari-2024-09 |
 | Application Scalability using SQL Server, PostgreSQL, Redis and KEDA - Database Weekend 2024 | 2024-05-25 | 27 | In this presentation, I demonstrated how to scale applications in a Kubernetes cluster, using metrics obtained from SQL Server and PostgreSQL queries with KEDA (Kubernetes Event-driven Autoscaling). This talk also covered the use of Redis as an important caching solution.<br/>Technologies covered: Kubernetes, KEDA, SQL Server, PostgreSQL, Redis, Linux, Docker, .NET 8, ASP.NET Core, Entity Framework Core... | https://github.com/DotNetSP/DatabaseWeekend-2024-05 |
+| kind: Implementing and Automating Integration Tests for Kubernetes - Referências 2024 | 2024-05-18 | 15 | Presentation on the use of kind as an alternative for creating test environments based on Kubernetes, using Docker containers.<br/>Technologies covered: Kubernetes, kind, Docker, Linux, Azure DevOps, Azure Pipelines, GitHub GitHub Actions, MongoDB, .NET, ASP.NET Core, Postman, Newman, npm | https://github.com/renatogroffe/kind_4alltests-2024-05 |
 | Kubernetes: An Overview - From Pod to Deployment - Containers Weekend 2024 | 2024-04-06 | 54 | I demonstrated the use of Kubernetes and Azure Kubernetes Service as alternatives for hosting scalable and resilient applications.<br/>Technologies covered: Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), k9s, Visual Studio Code, .NET, ASP.NET Core. | https://github.com/DotNetSP/ContainersWeekend-2024-04|
 | ? | 0000-00-00 | ? | LINK | 0 |
 | ????????????????????????????????????????????????????????? | 0000-00-00 | Access the link for more details | https://github.com/azuretalks/Dotnet-Conf-2024-02 | 8 |
