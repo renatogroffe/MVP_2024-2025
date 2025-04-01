@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of using KEDA with the Cron (with pre-scheduled scaling) and Workload (scaling one deployment based on another) scalers. | 2024-04-29 | https://github.com/renatogroffe/Kubernetes-KEDA-Cron-Workload |
 | Example of a Console App created in .NET 8 and that uses the Microsoft.Identity + Graph API project for testing logins in Azure AD B2C. Includes the use of the Serilog and Sharprompt libraries (menus via command line), as well as scripts for resetting MFA with Graph API. | 2024-04-26 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI-Serilog-Sharprompt |
 | Slides and presentation content on the implementation of Multi-Factor Authentication (MFA) held on 04/25/2024, during the 2024 edition of Global Azure in São Paulo-SP. | 2024-04-25 | https://github.com/renatogroffe/MFA_GlobalAzure-SaoPaulo-2024 |
 | Examples of using OpenTelemetry with .NET 8 + ASP.NET Core + PostgreSQL + Jaeger. | 2024-04-19 | https://github.com/renatogroffe/OpenTelemetry-2024-04 |
