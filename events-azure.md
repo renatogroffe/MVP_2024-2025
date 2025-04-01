@@ -1,12 +1,12 @@
 # Speaker at Third-party Events - Microsoft Azure
 
-Number of talks: **5**
+Number of talks: **6**
 
-Number of attendees (considering all talks): **317**
+Number of attendees (considering all talks): **467**
 
 In-person attendees: **203**
 
-Online attendees: **114**
+Online attendees: **264**
 
 Main technologies: **Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), Grafana, Azure Managed Grafana, Prometheus, Azure Monitor, Azure Monitor with Prometheus, k9s, Visual Studio Code, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis, Azure DevOps, GitHub Actions...**
 
@@ -15,11 +15,7 @@ The following links describe each of these talks, including links with informati
 | Event | Date | Participants | Description | Link | 
 | ------------| ---- | ------------ | ---- | ---- |
 | Container Security: best practices, tools, points of attention... - DevOps Experience 2024-02 | 2025-03-27 | 114 | Presentation on monitoring and observability of applications using OpenTelemetry and Grafana.<br/>Technologies covered: Docker, Kubernetes, Terraform, Azure DevOps, GitHub Actions, Azure Kubernetes Service, kind, Linux, Docker Scout, KICS, Checkov... | https://github.com/renatogroffe/SegurancaContainers_DevOpsExperience-2025-03 |
-
-
-| Application Observability and Monitoring with OpenTelemetry + Grafana stack - DEVPIRA Festival 2024 | 2024-12-07 | 150 | Presentation on monitoring and observability of applications using OpenTelemetry and Grafana.<br/>Technologies covered: Grafana, OpenTelemetry, Azure Managed Grafana, Azure Monitor, Azure Monitor with Prometheus, Azure VMs, Azure Kubernetes Service, Docker, Docker Compose, Linux, Grafana Tempo, Loki, Prometheus, PostgreSQL, .NET, ASP.NET Core | https://renatogroffe.medium.com/certifica%C3%A7%C3%B5es-em-kubernetes-iniciativas-gratuitas-exames-pagos-devops-experience-janeiro-2025-7976b5e87421 |
-
-
+| Kubernetes certifications: official and cloud provider exams, free initiatives... - DevOps Experience 2025-01 | 2025-01-30 | 150 | Presentation covering certifications focused on containerization and Kubernetes, including initiatives from the Linux Foundation, Cloud Native Computing Foundation (CNCF) and Microsoft Azure.<br/>Technologies and topics covered: Containers, Cloud Native, Observability, Software Development, DevOps, Docker, Kubernetes, Linux, KEDA, OpenTelemetry, Istio, Azure DevOps, GitHub Actions, Microsoft Azure, AWS... | https://renatogroffe.medium.com/certifica%C3%A7%C3%B5es-em-kubernetes-iniciativas-gratuitas-exames-pagos-devops-experience-janeiro-2025-7976b5e87421 |
 | Application Observability and Monitoring with OpenTelemetry + Grafana stack - DEVPIRA Festival 2024 | 2024-12-07 | 50 | Presentation on monitoring and observability of applications using OpenTelemetry and Grafana.<br/>Technologies covered: Grafana, OpenTelemetry, Azure Managed Grafana, Azure Monitor, Azure Monitor with Prometheus, Azure VMs, Azure Kubernetes Service, Docker, Docker Compose, Linux, Grafana Tempo, Loki, Prometheus, PostgreSQL, .NET, ASP.NET Core | https://github.com/renatogroffe/OpenTelemetry-Grafana_DEVPIRAFestival-2024 |
 | Kubernetes and Scalability: applications processing thousands or millions of accesses! - DEVPIRA Wknd Capivari #2 | 2024-09-14 | 72 | Presentation covering the use of the KEDA (Kubernetes Event-driven Autoscaling) project in scaling containerized applications in Kubernetes-based environments.<br/>Kubernetes, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, KEDA Cron Scaler, Helm, Linux, Microservices, DevOps, DevSecOps, .NET, ASP.NET Core, Go... | https://github.com/renatogroffe/Kubernetes_DevPiraWkndCapivari-2024-09 |
 | Application Scalability using SQL Server, PostgreSQL, Redis and KEDA - Database Weekend 2024 | 2024-05-25 | 27 | In this presentation, I demonstrated how to scale applications in a Kubernetes cluster, using metrics obtained from SQL Server and PostgreSQL queries with KEDA (Kubernetes Event-driven Autoscaling). This talk also covered the use of Redis as an important caching solution.<br/>Technologies covered: Kubernetes, KEDA, SQL Server, PostgreSQL, Redis, Linux, Docker, .NET 8, ASP.NET Core, Entity Framework Core... | https://github.com/DotNetSP/DatabaseWeekend-2024-05 |
