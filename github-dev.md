@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Examples demonstrating new features in .NET 9, C# 13, and ASP.NET Core. .NET 9 Preview 4 was used in this example. | 2024-06-05 | https://github.com/renatogroffe/DotNet9-2024-06 |
 | Support materials for building iOS apps on Azure DevOps/Azure Pipelines. | 2024-05-27 | https://github.com/renatogroffe/AzureDevOps-Build-iOS |
 | Examples using (Producer + Consumer) the Tools for Apache Kafka extension with Visual Studio Code. Include Docker Compose using Kafka, Zookeeper and Kafdrop. | 2024-05-01 | https://github.com/renatogroffe/Kafka-VSCode-Producer-Consumer |
 | Examples of test implementation in .NET 8 and .NET 6 using xUnit and SpecFlow projects. | 2024-04-30 | https://github.com/renatogroffe/TDD-BDD-2024-04 |
