@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 Number of repositories: **58**
 
-Main technologies: **Azure API Management, Application Insights, Azure Monitor, Azure AD B2C, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core ---- Kubernetes, Azure Kubernetes Service, KEDA, Azure Functions, , Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure AD B2C, Kubernetes, Docker, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core ---- Kubernetes, Azure Kubernetes Service, KEDA, Azure Functions, , Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
 
 **First repository created on April 10, 2024.**
 
@@ -15,6 +15,7 @@ Main technologies: **Azure API Management, Application Insights, Azure Monitor, 
 | ------------ | ---- | ---- |
 | Examples of using OpenTelemetry with .NET 8 + ASP.NET Core + PostgreSQL + Jaeger. | 2024-04-19 | https://github.com/renatogroffe/OpenTelemetry-2024-04 |
 | Example with configurations to validate an application's Access Token using the <validate-jwt> policy from Azure API Management and an Azure AD B2C App Registration. Includes a .http script for testing with the REST Client extension in VS Code. | 2024-04-10 | https://github.com/renatogroffe/APIM-AzureADB2C-ValidateJWT |
+| Examples of new features in .NET 8, ASP.NET Core, and C#12. | 2024-04-02 | https://github.com/renatogroffe/DotNet8-2024-04 |
 | ???? | ???? | ???? |
 | Script in .http format for testing with Graph API in Azure AD B2C and which makes use of Users, Applications and Authentication Methods endpoints. | 2024-03-13 | https://github.com/renatogroffe/GraphAPI-Applications-Users-AuthMethods |
 | Example with configurations to validate an Access Token of an application using the Azure API Management <validate-azure-ad-token> policy and a Microsoft Entra ID App Registration. Includes .http script for testing with the VS Code REST Client extension. | 2024-03-13 | https://github.com/renatogroffe/APIM-MicrosoftEntra-ValidateJWT |
