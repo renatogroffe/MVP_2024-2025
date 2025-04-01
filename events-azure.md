@@ -2,11 +2,11 @@
 
 Number of talks: **11**
 
-Number of attendees (considering all talks): **740**
+Number of attendees (considering all talks): **890**
 
 In-person attendees: **289**
 
-Online attendees: **451**
+Online attendees: **601**
 
 Main technologies: **Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), Grafana, Azure Managed Grafana, Prometheus, Azure Monitor, Azure Monitor with Prometheus, k9s, Visual Studio Code, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis, Azure DevOps, GitHub Actions...**
 
