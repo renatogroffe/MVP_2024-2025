@@ -1,14 +1,14 @@
 # Speaker at Third-party Events - Developer Technologies
 
-Number of talks: **9**
+Number of talks: **10**
 
-Number of attendees (considering all talks): **653**
+Number of attendees (considering all talks): **690**
 
-In-person attendees: **314**
+In-person attendees: **351**
 
 Online attendees: **339**
 
-Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, GitHub Actions, Microsoft Azure, Bash, PowerShell, k6, Postman, Testcontainers**
+Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, GitHub Actions, React Native, JavaScript, Android, iOS, Microsoft Azure, Bash, PowerShell, k6, Postman, Testcontainers**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
@@ -23,6 +23,7 @@ The following links describe each of these talks, including links with informati
 | React Native + Mobile App Build Automation: examples of use with Azure DevOps and GitHub Actions - DevOps Weekend 2024 - São Paulo-SP | 2024-10-19 | 12 | Presentation covering how to automate the build of mobile apps implemented with React Native, using GitHub Actions, Azure DevOps and macOS-based virtual environments.<br/>Technologies and topics covered: Mobile Development, DevOps, GitHub Actions, React Native, macOS, JavaScript, Visual Studio Code... | https://github.com/DotNetSP/DevOpsWeekend-2024-10 |
 | Monoliths, Cloud Native and Application Modernization - Itu Developers Meetup #10 | 2024-09-28 | 30 | Presentation covering cloud native technologies, monolithic applications and software modernization.<br/>Technologies covered: Monolithic Applications, Legacy Software, Microservices, Git, Azure DevOps, GitHub Actions, DevOps, DevSecOps, .NET, Node.js, Java, Containers, Cloud Native, Twelve Factor Apps, CNCF, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, Helm, Terraform, ARM, Bicep, Linux... | https://github.com/renatogroffe/Monolitos-CloudNative-Modernizacao_ItuDevelopers-2024-09 |
 | Detecting Vulnerabilities in Applications: Implementing SAST and DAST Tests in Practice! - DevOps Experience - 2024-07 | 2024-07-25 | 221 | Online presentation covering the use of SAST (Static Application Security Testing) and DAST (Dynamic Application Security Testing) solutions enabling the implementation of more secure applications.<br/>Technologies and topics covered: Containers, Software Development, Cybersecurity, OWASP, Docker, Checkov, .NET, Python, Java, Node.js, Azure DevOps, Azure Pipelines, Azure Repos, Git, Linux, OWASP Dependency Check... | https://github.com/renatogroffe/SAST-DAST_DevOpsExperience-2024-07 |
+| Q&A: GitHub, GitHub Actions, DevOps... - Global DevOps Experience 2024 - São Paulo-SP | 2024-06-15 | 37 | Q&A session covering topics such as GitHub, GitHub Actions, DevOps, automation, open source projects, Iac (Infrastructure as Code)...<br/>Technologies covered: GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Git, Visual Studio Code, Terraform, ARM Templates, Bicep, Docker, Kubernetes, Trivy, OWASP, OWASP Dependency Check, Checkmarx, Veracode, Azure App Service, Linux, macOS, Windows... | https://github.com/azurenapratica/GlobalDevOps-2024 |
 | aaa| aaa | aaa | aaa | sss |
 | OWASP API Security Top 10: recommendations for more secure APIs - DevOps Experience 2024-03 | 2024-03-28 | Online presentation covering the vulnerabilities that are part of the OWASP API Security Top 10 list, with tips, guidance and even tool suggestions to make the implementation of REST APIs safer and more reliable.<br/>Technologies used: JWT, Azure API Management, .NET 8, ASP.NET Core, Microsoft Entra ID, Azure AD B2C | https://renatogroffe.medium.com/owasp-api-security-top-10-apis-rest-mais-seguras-devops-experience-mar%C3%A7o-2024-06814dfabb24 | 116 |
 | .NET 8: useful new features for Back-End Development - DEVPIRA .NET Wknd 2024 | 2024-03-02 | Presentation covering new features of .NET 8 useful for Back-End Development.<br/>Lecture held during the March 2024 edition of DEVPIRA .NET Wknd, an event that took place in the city of Piracicaba-SP.<br/>Technologies covered: .NET 8, ASP.NET Core, C# 12, Visual Studio Code, Azure Container Apps, Application Insights, Linux | https://renatogroffe.medium.com/net-8-novidades-%C3%BAteis-para-o-desenvolvimento-back-end-devpira-net-wknd-2024-ab0156cffd9d | 70 |
