@@ -1,10 +1,10 @@
 # Speaker at Third-party Events - Developer Technologies
 
-Number of talks: **8**
+Number of talks: **9**
 
-Number of attendees (considering all talks): **641**
+Number of attendees (considering all talks): **653**
 
-In-person attendees: **302**
+In-person attendees: **314**
 
 Online attendees: **339**
 
@@ -20,6 +20,7 @@ The following links describe each of these talks, including links with informati
 | Panel: DevOps and Cloud - importance, career tips, certifications and much more! - DevOps Weekend 2025 | 2025-03-15 | 65 | Panel discussion with career tips, certifications, trending technologies and challenges in the DevOps area.<br/>Technologies and topics covered: DevOps, SRE, DevSecOps, Cybersecurity, Azure DevOps, GitHub Actions, Git, Terraform, Microsoft Azure, Azure Certifications, Linux Foundation Certifications, APIsec Certifications, Docker, Kubernetes... | https://github.com/DotNetSP/DevOpsWeekend-2025-03 |
 | Boosting and simplifying Integration Test automation with Testcontainers! - DevOps Experience 2025-02 | 2025-02-27 | 118 | Online presentation covering the use of the Testcontainers project as an alternative to simplify the implementation of integration tests in various development stacks.<br/> Technologies and topics covered: .NET 9, SQL Server, PostgreSQL, DevOps, Integration tests, Azure DevOps, Azure Pipelines, GitHub Actions, Container, Docker, Testcontainers, Docker Compose, Linux, Python, Java, Node.js... | https://github.com/renatogroffe/Testcontainers_DevOpsExperience-2025-02 |
 | .NET 9, C# 13, ASP.NET Core - What's New in Back-End Development - DEVPIRA .NET Wknd 2025 | 2025-01-11 | 42 | Presentation covering new features of .NET 9 useful for Back-End Development.<br/> Technologies covered: .NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure, Docker, Redis... | https://github.com/renatogroffe/DotNet9_DEVPIRA-2025-01 |
+| React Native + Mobile App Build Automation: examples of use with Azure DevOps and GitHub Actions - DevOps Weekend 2024 - São Paulo-SP | 2024-10-19 | 12 | Presentation covering how to automate the build of mobile apps implemented with React Native, using GitHub Actions, Azure DevOps and macOS-based virtual environments.<br/>Technologies and topics covered: Mobile Development, DevOps, GitHub Actions, React Native, macOS, JavaScript, Visual Studio Code... | https://github.com/DotNetSP/DevOpsWeekend-2024-10 |
 | Monoliths, Cloud Native and Application Modernization - Itu Developers Meetup #10 | 2024-09-28 | 30 | Presentation covering cloud native technologies, monolithic applications and software modernization.<br/>Technologies covered: Monolithic Applications, Legacy Software, Microservices, Git, Azure DevOps, GitHub Actions, DevOps, DevSecOps, .NET, Node.js, Java, Containers, Cloud Native, Twelve Factor Apps, CNCF, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, Helm, Terraform, ARM, Bicep, Linux... | https://github.com/renatogroffe/Monolitos-CloudNative-Modernizacao_ItuDevelopers-2024-09 |
 | Detectando Vulnerabilidades em Aplicações: implementando testes SAST e DAST na prática! - DevOps Experience - 2024-07 | 2024-07-25 | 221 | Online presentation covering the use of SAST (Static Application Security Testing) and DAST (Dynamic Application Security Testing) solutions enabling the implementation of more secure applications.<br/>Technologies and topics covered: Containers, Software Development, Cybersecurity, OWASP, Docker, Checkov, .NET, Python, Java, Node.js, Azure DevOps, Azure Pipelines, Azure Repos, Git, Linux, OWASP Dependency Check... | https://github.com/renatogroffe/SAST-DAST_DevOpsExperience-2024-07 |
 | aaa| aaa | aaa | aaa | sss |
