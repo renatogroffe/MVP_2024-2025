@@ -1,19 +1,20 @@
 # Speaker at Third-party Events - Developer Technologies
 
-Number of talks: **6**
+Number of talks: **7**
 
-Number of attendees (considering all talks): **385**
+Number of attendees (considering all talks): **420**
 
-In-person attendees: **267**
+In-person attendees: **302**
 
 Online attendees: **118**
 
-Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman, Testcontainers**
+Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, GitHub Actions, Microsoft Azure, Bash, PowerShell, k6, Postman, Testcontainers**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
 | Event | Date | Participants | Description | Link |
 | ------------| ---- | ------------ | ---- | ---- |
+| Twelve-Factor App - Best Practices for Applications in Cloud... and Beyond... - Campinas .NET 2025-03 | 2025-03-22 | 35 | Online presentation focused on the Twelve-Factor App methodology and how it can be useful in implementing applications, considering best practices in Development, DevOps, Cloud, Databases and Infrastructure.<br/>Topics covered: Twelve-Factor App, Web Development, DevOps, Microsoft Azure, Kubernetes, Azure DevOps, cloud native tecnologies, open source, Git, Azure DevOps, GitHub Actions, .NET, Java, Node.js, PowerShell, Bash... | https://github.com/campinasdotnet/Arquitetura-WellArchitected-12FactorApp-2025-03 |
 | GitHub and GitHub Actions: ask everything you ever wanted to know! - DevOps Weekend 2025 | 2025-03-15 | 65 | Q&A session covering the use of GitHub and GitHub Actions as important solutions in adopting a DevOps culture.<br/> Technologies and topics covered: GitHub, GitHub Actions, Linux, macOS, Windows, Docker, Terraform, ARM, Bicep, .NET, Python, Java, Node.js... | https://github.com/DotNetSP/DevOpsWeekend-2025-03 |
 | Testcontainers + GitHub Actions: boosting and simplifying Integration Test automation - DevOps Weekend 2025-03 | 2025-03-15 | 65 | Presentation covering the use of the Testcontainers project as an alternative to simplify the implementation of integration tests in various development stacks, with automations created with GitHub Actiions.<br/>Technologies and topics covered: GitHub Actions, .NET 9, SQL Server, PostgreSQL, DevOps, Integration tests, Container, Docker, Testcontainers, Docker Compose, Linux, Python, Java, Node.js... | https://github.com/DotNetSP/DevOpsWeekend-2025-03 |
 | Panel: DevOps and Cloud - importance, career tips, certifications and much more! - DevOps Weekend 2025 | 2025-03-15 | 65 | Panel discussion with career tips, certifications, trending technologies and challenges in the DevOps area.<br/>Technologies and topics covered: DevOps, SRE, DevSecOps, Cybersecurity, Azure DevOps, GitHub Actions, Git, Terraform, Microsoft Azure, Azure Certifications, Linux Foundation Certifications, APIsec Certifications, Docker, Kubernetes... | https://github.com/DotNetSP/DevOpsWeekend-2025-03 |
