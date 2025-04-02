@@ -1,12 +1,12 @@
 # Speaker at Third-party Events - Microsoft Azure
 
-Number of talks: **15**
+Number of talks: **16**
 
-Number of attendees (considering all talks): **1032**
+Number of attendees (considering all talks): **1049**
 
 In-person attendees: **361**
 
-Online attendees: **671**
+Online attendees: **688**
 
 Main technologies: **Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), Grafana, Azure Managed Grafana, Prometheus, Azure Monitor, Azure Monitor with Prometheus, k9s, Visual Studio Code, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis, Azure DevOps, GitHub Actions...**
 
