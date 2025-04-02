@@ -1,12 +1,12 @@
 # Speaker at Third-party Events - Microsoft Azure
 
-Number of talks: **20**
+Number of talks: **22**
 
-Number of attendees (considering all talks): **1235**
+Number of attendees (considering all talks): **1409**
 
 In-person attendees: **406**
 
-Online attendees: **829**
+Online attendees: **1003**
 
 Main technologies: **Azure Kubernetes Service (AKS), Azure API Management, Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), Grafana, Azure Managed Grafana, Prometheus, Azure Monitor, Azure Monitor with Prometheus, k9s, Visual Studio Code, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis, Azure DevOps, GitHub Actions...**
 
@@ -32,5 +32,15 @@ The following links describe each of these talks, including links with informati
 | Application Scalability using SQL Server, PostgreSQL, Redis and KEDA - Database Weekend 2024 | 2024-05-25 | 27 | In this presentation, I demonstrated how to scale applications in a Kubernetes cluster, using metrics obtained from SQL Server and PostgreSQL queries with KEDA (Kubernetes Event-driven Autoscaling). This talk also covered the use of Redis as an important caching solution.<br/>Technologies covered: Kubernetes, KEDA, SQL Server, PostgreSQL, Redis, Linux, Docker, .NET 8, ASP.NET Core, Entity Framework Core... | https://github.com/DotNetSP/DatabaseWeekend-2024-05 |
 | kind: Implementing and Automating Integration Tests for Kubernetes - QA Solidário RS | 2024-05-24 | 17 | Online presentation on the use of kind as an alternative for creating test environments based on Kubernetes, using Docker containers.<br/>Technologies covered: Kubernetes, kind, Docker, Linux, Azure DevOps, Azure Pipelines, GitHub GitHub Actions, MongoDB, .NET, ASP.NET Core, Postman, Newman, npm | https://github.com/renatogroffe/kind_QASolidarioRS-2024-05 |
 | kind: Implementing and Automating Integration Tests for Kubernetes - Referências 2024 | 2024-05-18 | 15 | Presentation on the use of kind as an alternative for creating test environments based on Kubernetes, using Docker containers.<br/>Technologies covered: Kubernetes, kind, Docker, Linux, Azure DevOps, Azure Pipelines, GitHub GitHub Actions, MongoDB, .NET, ASP.NET Core, Postman, Newman, npm | https://github.com/renatogroffe/kind_4alltests-2024-05 |
+| Azure + Containers in practical examples - Azure Masters 2024 | 2024-05-11 | 87 | Online presentation demonstrating the implementation of containerized solutions with services offered by Microsoft Azure.<br/>Technologies and topics covered: Docker, Kubernetes, Azure App Service, Azure Functions, Azure Container Apps, Azure Container Instances, Azure Kubernetes Service, Linux, Azure Event Hubs, Application Insights, .NET, ASP.NET Core... | https://github.com/azurenapratica/AzureMaster-2024-05 |
+
+
+
+| Containerization in Azure: services, applications, architecture... - Azure Masters 2024 | 2024-05-11 | 87 | Online presentation covering alternatives for hosting containerized applications on Microsoft Azure.<br/>Technologies and topics covered: Docker, Kubernetes, Azure App Service, Azure Functions, Azure Container Apps, Azure Container Instances, Azure Kubernetes Service, Linux... | https://github.com/azurenapratica/AzureMaster-2024-05 |
+
+
+Azure Masters was an online event promoted by the Azure na Prática community and focused on the Brazilian IT audience.
+
+
 | Cloud Computing in 2024: first steps, Azure, Containers, Artificial Intelligence, technologies, career... - Universidade Estácio de Sá | 2024-05-10 | 45 | Online presentation covering the importance of cloud computing in various areas, important concepts, an overview of Microsoft Azure, containers, AI and career tips.<br/>Technologies and topics covered: Cloud Computing, DevOps, Containers, Open Source, Cloud Native Docker, Kubernetes, Microsoft Azure, GitHub Copilot, OpenAI, Linux, Azure DevOps, GitHub | https://github.com/renatogroffe/CloudComputing-2024-Estacio/ |
 | Kubernetes: An Overview - From Pod to Deployment - Containers Weekend 2024 | 2024-04-06 | 54 | I demonstrated the use of Kubernetes and Azure Kubernetes Service as alternatives for hosting scalable and resilient applications.<br/>Technologies covered: Azure Kubernetes Service (AKS), Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), k9s, Visual Studio Code, .NET, ASP.NET Core. | https://github.com/DotNetSP/ContainersWeekend-2024-04|
