@@ -4,9 +4,9 @@ Number of talks: **6**
 
 Number of attendees (considering all talks): **141**
 
-In-person attendees: **141**
+In-person attendees: **109**
 
-Online attendees: **0**
+Online attendees: **32**
 
 Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, GitHub Copilot, OpenAPI, Ollama, Semantic Kernel, Microsoft Azure, OpenAI**
 
