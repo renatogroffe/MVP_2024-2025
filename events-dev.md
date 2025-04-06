@@ -1,10 +1,10 @@
 # Speaker at Third-party Events - Developer Technologies
 
-Number of talks: **14**
+Number of talks: **15**
 
-Number of attendees (considering all talks): **954**
+Number of attendees (considering all talks): **1054**
 
-In-person attendees: **541**
+In-person attendees: **641**
 
 Online attendees: **413**
 
@@ -20,6 +20,7 @@ The following links describe each of these talks, including links with informati
 | Panel: DevOps and Cloud - importance, career tips, certifications and much more! - DevOps Weekend 2025 | 2025-03-15 | 65 | Panel discussion with career tips, certifications, trending technologies and challenges in the DevOps area.<br/>Technologies and topics covered: DevOps, SRE, DevSecOps, Cybersecurity, Azure DevOps, GitHub Actions, Git, Terraform, Microsoft Azure, Azure Certifications, Linux Foundation Certifications, APIsec Certifications, Docker, Kubernetes... | https://github.com/DotNetSP/DevOpsWeekend-2025-03 |
 | Boosting and simplifying Integration Test automation with Testcontainers! - DevOps Experience 2025-02 | 2025-02-27 | 118 | Online presentation covering the use of the Testcontainers project as an alternative to simplify the implementation of integration tests in various development stacks.<br/> Technologies and topics covered: .NET 9, SQL Server, PostgreSQL, DevOps, Integration tests, Azure DevOps, Azure Pipelines, GitHub Actions, Container, Docker, Testcontainers, Docker Compose, Linux, Python, Java, Node.js... | https://github.com/renatogroffe/Testcontainers_DevOpsExperience-2025-02 |
 | .NET 9, C# 13, ASP.NET Core - What's New in Back-End Development - DEVPIRA .NET Wknd 2025 | 2025-01-11 | 42 | Presentation covering new features of .NET 9 useful for Back-End Development.<br/> Technologies covered: .NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure, Docker, Redis... | https://github.com/renatogroffe/DotNet9_DEVPIRA-2025-01 |
+| AI + Database Documentation: using GitHub Copilot + Mermaid to generate diagrams - Data Saturday Vitória 2024 | 2024-10-26 | 100 | Presentation covering the use of GitHub Copilot and the Mermaid tool in creating different types of diagrams in database projects.<br/>Technologies and topics covered: GitHub Copilot, Mermaid, Visual Studio Code, GitHub, Project Documentation, PostgreSQL, SQL Server, UML, .NET, Entity Framework, Azure Data Factory... | https://github.com/renatogroffe/Mermaid-Copilot_DataSaturday-2024-10 |
 | React Native + Mobile App Build Automation: examples of use with Azure DevOps and GitHub Actions - DevOps Weekend 2024 - São Paulo-SP | 2024-10-19 | 12 | Presentation covering how to automate the build of mobile apps implemented with React Native, using GitHub Actions, Azure DevOps and macOS-based virtual environments.<br/>Technologies and topics covered: Mobile Development, DevOps, GitHub Actions, React Native, macOS, JavaScript, Visual Studio Code... | https://github.com/DotNetSP/DevOpsWeekend-2024-10 |
 | OWASP API Security Top 10: recommendations for more secure APIs - TDC Summit São Paulo 2024 | 2024-09-19 | 160 | Presentation covering how to take advantage of the recommendations that are part of the OWASP API Security Top 10 initiative in .NET projects (or even in other stacks), producing more secure and reliable Back-Ends!<br/>Technologies and topics covered: .NET, ASP.NET Core, OWASP API Security Top 10, JWT, Cybersecurity, API Gateways, Rate Limit, Resilience, Azure API Management, Microsoft Entra ID... | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_TDC-SP-2024 |s
 | GitHub Copilot + Mermaid: simplifying documentation generation with Artificial Intelligence - Universidade Estácio de Sá | 2024-10-11 | 55 | Online presentation covering the use of GitHub Copilot and the Mermaid tool in creating different types of diagrams in software projects.<br/>Technologies and topics covered: GitHub Copilot, Mermaid, GitHub, Visual Studio Code, Git, SQL, UML, Systems Modeling, Multi-Factor Authentication... | https://github.com/renatogroffe/GitHubCopilot-Mermaid_Estacio-2024-10 |
