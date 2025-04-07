@@ -17,6 +17,7 @@ The table below describes each of the projects, including links to view each of 
 | ------------ | ---- | ---- |
 | Examples demonstrating new features in .NET 9, C# 13, and ASP.NET Core. .NET 9 Preview 4 was used in this example. | 2024-06-05 | https://github.com/renatogroffe/DotNet9-2024-06 |
 | Example of consuming a token-protected access counting REST API (JWT) in .NET 8 and using the Refit and Jose libraries, with failure handling through the Polly library. | 2024-06-03 | https://github.com/renatogroffe/DotNet8-Refit-JWT-Polly-Jose_ConsumoAPIContagem |
+| Example of a REST API for access counting created with .NET 8 + ASP.NET Core + Minimal APIs, using extensions defined in a Class Library to use JWT (JSON Web Tokens) and configurations so that Swagger supports tokens. Includes .http files for testing from Visual Studio Code. | 2024-06-02 | https://github.com/renatogroffe/ASPNETCore8-MinimalAPIs-JWT-Swagger-Extensions-Mermaid-HttpFiles-Mermaid_ContagemAcessos |
 | Support materials for building iOS apps on Azure DevOps/Azure Pipelines. | 2024-05-27 | https://github.com/renatogroffe/AzureDevOps-Build-iOS |
 | Examples using (Producer + Consumer) the Tools for Apache Kafka extension with Visual Studio Code. Include Docker Compose using Kafka, Zookeeper and Kafdrop. | 2024-05-01 | https://github.com/renatogroffe/Kafka-VSCode-Producer-Consumer |
 | Examples of test implementation in .NET 8 and .NET 6 using xUnit and SpecFlow projects. | 2024-04-30 | https://github.com/renatogroffe/TDD-BDD-2024-04 |
