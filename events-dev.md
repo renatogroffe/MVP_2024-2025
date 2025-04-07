@@ -1,10 +1,10 @@
 # Speaker at Third-party Events - Developer Technologies
 
-Number of talks: **15**
+Number of talks: **16**
 
-Number of attendees (considering all talks): **1054**
+Number of attendees (considering all talks): **1229**
 
-In-person attendees: **641**
+In-person attendees: **816**
 
 Online attendees: **413**
 
@@ -27,5 +27,6 @@ The following links describe each of these talks, including links with informati
 | Monoliths, Cloud Native and Application Modernization - Itu Developers Meetup #10 | 2024-09-28 | 30 | Presentation covering cloud native technologies, monolithic applications and software modernization.<br/>Technologies covered: Monolithic Applications, Legacy Software, Microservices, Git, Azure DevOps, GitHub Actions, DevOps, DevSecOps, .NET, Node.js, Java, Containers, Cloud Native, Twelve Factor Apps, CNCF, Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, Helm, Terraform, ARM, Bicep, Linux... | https://github.com/renatogroffe/Monolitos-CloudNative-Modernizacao_ItuDevelopers-2024-09 |
 | Testing REST APIs: from validations and performance to endpoint security: Postman, k6 and ZAP Scan - API Weekend 2024 - São Paulo-SP | 2024-08-17 | 30 | Presentation covering the implementation of REST API tests for validation, performance checks and application security.<br/>Technologies and topics covered: Postman, k6, ZAP Scan, Integration Tests, Cybersecurity, Containers, Software Development, .NET, Python, Java, Node.js, Azure DevOps, Azure Pipelines, Azure Repos, GitHub Actions, Git, Linux... | https://github.com/DotNetSP/ApiWeekend-2024-08 |
 | Detecting Vulnerabilities in Applications: Implementing SAST and DAST Tests in Practice! - DevOps Experience - 2024-07 | 2024-07-25 | 221 | Online presentation covering the use of SAST (Static Application Security Testing) and DAST (Dynamic Application Security Testing) solutions enabling the implementation of more secure applications.<br/>Technologies and topics covered: Containers, Software Development, Cybersecurity, OWASP, Docker, Checkov, .NET, Python, Java, Node.js, Azure DevOps, Azure Pipelines, Azure Repos, Git, Linux, OWASP Dependency Check... | https://github.com/renatogroffe/SAST-DAST_DevOpsExperience-2024-07 |
+| Implementing security in REST APIs: tools, best practices, precautions... - DevOps Experience 2024-06 | 2024-06-27 | 175 | Online presentation covering best practices for the secure implementation and use of REST APIs.<br/>Technologies covered: REST APIs, JWT, JSON Web Encryption (JWE), Developer Security, Cybersecurity, .NET, ASP.NET Core, Azure API Management (APIM), Microsoft Entra ID, Azure AD B2C... | https://github.com/renatogroffe/SegurancaAPIs_DevOpsExperience-2024-06 |
 | Q&A: GitHub, GitHub Actions, DevOps... - Global DevOps Experience 2024 - São Paulo-SP | 2024-06-15 | 37 | Q&A session covering topics such as GitHub, GitHub Actions, DevOps, automation, open source projects, Iac (Infrastructure as Code)...<br/>Technologies covered: GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Git, Visual Studio Code, Terraform, ARM Templates, Bicep, Docker, Kubernetes, Trivy, OWASP, OWASP Dependency Check, Checkmarx, Veracode, Azure App Service, Linux, macOS, Windows... | https://github.com/azurenapratica/GlobalDevOps-2024 |
 | .NET 8: useful new features for Back-End Development - Paraná Banco | 2024-04-02 | 19 | Online presentation demonstrating new .NET 8 features useful for Back-End development.<br/>Technologies covered: .NET 8, ASP.NET Core, C#, Visual Studio 2022, Visual Studio Code, Docker,  Azure Container Apps, Kubernetes, Linux | https://renatogroffe.medium.com/net-8-novidades-%C3%BAteis-para-o-desenvolvimento-back-end-paran%C3%A1-banco-abril-2024-4df1467f67dc |
