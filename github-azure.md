@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Slides and content from a lecture on Kubernetes + KEDA held on 06/07/2024, during the Juntos pelo RS event. | 2024-06-14 | https://github.com/renatogroffe/KEDA-JuntosPeloRS-2024-06 |
 | Content about Kubernetes and KEDA presented on 06/13/2024. | 2024-06-13 | https://github.com/renatogroffe/Kubernetes-KEDA_2024-06 |
 | Example of consumption of a token-protected access counting REST API (JWT) in .NET 8 and using the Refit and Jose libraries, with error handling through the Polly library. Security was implemented with Microsoft Entra ID and Azure API Management. | 2024-06-04 | https://github.com/renatogroffe/DotNet8-MicrosoftEntra-APIMRefit-JWT-Polly-Jose_ConsumoAPIContagem |
 | Instructions on configuring settings to make it possible to monitor an Azure API Management resource from a Grafana instance outside the Microsoft cloud. | 2024-06-04 | https://github.com/renatogroffe/AzureAzureAPIM-Grafana-Integration |
