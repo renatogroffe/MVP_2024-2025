@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 Number of repositories: **58**
 
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core ---- Kubernetes, Azure Kubernetes Service, KEDA, Azure Functions, , Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core ---- Kubernetes, Azure Kubernetes Service, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
 
 **First repository created on April 02, 2024.**
 
@@ -14,6 +14,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Instructions on configuring settings to make it possible to monitor an Azure API Management resource from a Grafana instance outside the Microsoft cloud. | 2024-06-04 | https://github.com/renatogroffe/AzureAzureAPIM-Grafana-Integration |
+| Script for accessing protected endpoints from an Azure Function created with .NET 8 and exposed through Azure API Management, with security implemented through Microsoft Entra ID. | 2024-06-03 | https://github.com/renatogroffe/AzureFunctions-DotNet8-MicrosoftEntra-APIM-Http-RESTClient |
 | Examples of implementations with OpenTelemetry + Jaeger with .NET 8, ASP.NET Core, REST APIs and PostgreSQL used in presentation on May 2, 2024. | 2024-05-02 | https://github.com/renatogroffe/OpenTelemetry-Jaeger-DotNet8-APIs-PostgreSQL-2024-05 |
 | Example of using KEDA with the Cron (with pre-scheduled scaling) and Workload (scaling one deployment based on another) scalers. | 2024-04-29 | https://github.com/renatogroffe/Kubernetes-KEDA-Cron-Workload |
 | Example of a Console App created in .NET 8 and that uses the Microsoft.Identity + Graph API project for testing logins in Azure AD B2C. Includes the use of the Serilog and Sharprompt libraries (menus via command line), as well as scripts for resetting MFA with Graph API. | 2024-04-26 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI-Serilog-Sharprompt |
