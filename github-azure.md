@@ -23,7 +23,6 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Content about API Gateways from a presentation given during the April-2024 edition of DevOps Experience. | 2024-04-25 | https://github.com/renatogroffe/APIGateways_DevOpsExperience-2024-04 |
 | Examples of using OpenTelemetry with .NET 8 + ASP.NET Core + PostgreSQL + Jaeger. | 2024-04-19 | https://github.com/renatogroffe/OpenTelemetry-2024-04 |
 | Example with configurations to validate an application's Access Token using the <validate-jwt> policy from Azure API Management and an Azure AD B2C App Registration. Includes a .http script for testing with the REST Client extension in VS Code. | 2024-04-10 | https://github.com/renatogroffe/APIM-AzureADB2C-ValidateJWT |
-| Examples of new features in .NET 8, ASP.NET Core, and C#12. | 2024-04-02 | https://github.com/renatogroffe/DotNet8-2024-04 |
 | ???? | ???? | ???? |
 | ???? | ???? | ???? |
 | ???? | ???? | ???? |
