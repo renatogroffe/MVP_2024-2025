@@ -19,9 +19,20 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Example of using KEDA with the Cron (with pre-scheduled scaling) and Workload (scaling one deployment based on another) scalers. | 2024-04-29 | https://github.com/renatogroffe/Kubernetes-KEDA-Cron-Workload |
 | Example of a Console App created in .NET 8 and that uses the Microsoft.Identity + Graph API project for testing logins in Azure AD B2C. Includes the use of the Serilog and Sharprompt libraries (menus via command line), as well as scripts for resetting MFA with Graph API. | 2024-04-26 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI-Serilog-Sharprompt |
 | Slides and presentation content on the implementation of Multi-Factor Authentication (MFA) held on 04/25/2024, during the 2024 edition of Global Azure in São Paulo-SP. | 2024-04-25 | https://github.com/renatogroffe/MFA_GlobalAzure-SaoPaulo-2024 |
+| Content about API Gateways from a presentation given during the April-2024 edition of DevOps Experience. | 2024-04-25 | https://github.com/renatogroffe/APIGateways_DevOpsExperience-2024-04 |
 | Examples of using OpenTelemetry with .NET 8 + ASP.NET Core + PostgreSQL + Jaeger. | 2024-04-19 | https://github.com/renatogroffe/OpenTelemetry-2024-04 |
 | Example with configurations to validate an application's Access Token using the <validate-jwt> policy from Azure API Management and an Azure AD B2C App Registration. Includes a .http script for testing with the REST Client extension in VS Code. | 2024-04-10 | https://github.com/renatogroffe/APIM-AzureADB2C-ValidateJWT |
 | Examples of new features in .NET 8, ASP.NET Core, and C#12. | 2024-04-02 | https://github.com/renatogroffe/DotNet8-2024-04 |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
 | ???? | ???? | ???? |
 | Script in .http format for testing with Graph API in Azure AD B2C and which makes use of Users, Applications and Authentication Methods endpoints. | 2024-03-13 | https://github.com/renatogroffe/GraphAPI-Applications-Users-AuthMethods |
 | Example with configurations to validate an Access Token of an application using the Azure API Management <validate-azure-ad-token> policy and a Microsoft Entra ID App Registration. Includes .http script for testing with the VS Code REST Client extension. | 2024-03-13 | https://github.com/renatogroffe/APIM-MicrosoftEntra-ValidateJWT |
