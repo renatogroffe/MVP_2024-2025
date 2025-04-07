@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 Number of repositories: **137**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Apache Kafka, React Native, JavaScript, macOS, iOS, Androi**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Apache Kafka, React Native, JavaScript, macOS, iOS, Android...**
 
 **First repository created on April 11, 2024.**
 
@@ -23,6 +23,13 @@ The table below describes each of the projects, including links to view each of 
 | Example of a REST API based on .NET 9 (Preview 3) + MinimalAPIs and that makes use of the InternalServerError method (returns error 500) provided by the TypedResults class. | 2024-04-22 | https://github.com/renatogroffe/ASPNETCore9-MinimalAPIs-TypedResults-InternalServerError_ContagemAcessos |
 | Examples of using Dapper with .NET 8. | 2024-04-18 | https://github.com/renatogroffe/DotNet8-Dapper |
 | Example of Console App created in .NET 8 for executing SQL commands via Job in a SQL Server database. | 2024-04-11 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Job-ExecSqlCommand |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
+| ???? | ???? | ???? |
 | ???? | ???? | ???? |
 | Presentation content on OWASP API Security Top 10 held during the March-2024 edition of DevOps Experience. | 2024-03-28 | https://github.com/renatogroffe/OWASPApiTop10_DevOpsExperience-Mar2024 |
 | Examples of new features in .NET 8, ASP.NET Core and C#12. | 2024-03-26 | https://github.com/renatogroffe/DotNet8-2024-03 |
