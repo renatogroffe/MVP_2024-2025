@@ -22,13 +22,13 @@ The table below describes each of the projects, including links to view each of 
 | Example of a REST API based on .NET 9 (Preview 4) + MinimalAPIs and that makes use of the InternalServerError method (returns error 500) provided by the TypedResults class. | 2024-05-30 | https://github.com/renatogroffe/ASPNETCore9-MinimalAPIs-TypedResults-InternalServerError_ContagemAcessos-v2 |
 | Examples in .NET 8 using Elastic APM and tracing of applications that use Redis, PostgreSQL and MySQL. | 2024-05-30 | https://github.com/renatogroffe/ElasticAPM-DotNet8-Redis-Postgres-MySQL_ContagemAcessos |
 | Support materials for building iOS apps on Azure DevOps/Azure Pipelines. | 2024-05-27 | https://github.com/renatogroffe/AzureDevOps-Build-iOS |
+| Example of a REST API that returns the current time created with .NET 8 + ASP.NET Core + Minimal APIs + Swagger/OpenAPI and using Output Caching middleware + Redis + timeout for cached responses. It also includes a .http file for testing the application endpoints. | 2024-05-25 | https://github.com/renatogroffe/ASPNETCore8-REST_API-Minimal-CacheOutputRedis-WaitingTime_HorarioAtual |
 | Examples using (Producer + Consumer) the Tools for Apache Kafka extension with Visual Studio Code. Include Docker Compose using Kafka, Zookeeper and Kafdrop. | 2024-05-01 | https://github.com/renatogroffe/Kafka-VSCode-Producer-Consumer |
 | Examples of test implementation in .NET 8 and .NET 6 using xUnit and SpecFlow projects. | 2024-04-30 | https://github.com/renatogroffe/TDD-BDD-2024-04 |
 | Example of a REST API based on .NET 9 (Preview 3) + MinimalAPIs and that makes use of the InternalServerError method (returns error 500) provided by the TypedResults class. | 2024-04-22 | https://github.com/renatogroffe/ASPNETCore9-MinimalAPIs-TypedResults-InternalServerError_ContagemAcessos |
 | Examples of using Dapper with .NET 8. | 2024-04-18 | https://github.com/renatogroffe/DotNet8-Dapper |
 | Example of Console App created in .NET 8 for executing SQL commands via Job in a SQL Server database. | 2024-04-11 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Job-ExecSqlCommand |
 | Examples of new features in .NET 8, ASP.NET Core, and C#12. | 2024-04-02 | https://github.com/renatogroffe/DotNet8-2024-04 |
-
 | ???? | ???? | ???? |
 | ???? | ???? | ???? |
 | ???? | ???? | ???? |
