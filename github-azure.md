@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of consumption of a token-protected access counting REST API (JWT) in .NET 8 and using the Refit and Jose libraries, with error handling through the Polly library. Security was implemented with Microsoft Entra ID and Azure API Management. | 2024-06-04 | https://github.com/renatogroffe/DotNet8-MicrosoftEntra-APIMRefit-JWT-Polly-Jose_ConsumoAPIContagem |
 | Instructions on configuring settings to make it possible to monitor an Azure API Management resource from a Grafana instance outside the Microsoft cloud. | 2024-06-04 | https://github.com/renatogroffe/AzureAzureAPIM-Grafana-Integration |
 | Script for accessing protected endpoints from an Azure Function created with .NET 8 and exposed through Azure API Management, with security implemented through Microsoft Entra ID. | 2024-06-03 | https://github.com/renatogroffe/AzureFunctions-DotNet8-MicrosoftEntra-APIM-Http-RESTClient |
 | Slides and content on application scalability with SQL Server, PostgreSQL and Redis presented at an event at SENAI on 05/25/2024. | 2024-05-25 | https://github.com/renatogroffe/Escalabilidade-BDs-SENAI-2024-05 |
