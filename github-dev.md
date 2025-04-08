@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of implementing load testing with k6 for SQL Server, including automated execution from an Azure DevOps pipeline. | 2024-08-19 | https://github.com/renatogroffe/k6-SqlServer-LoadTests-AzureDevOps-Pipelines |
 | Slides and content on REST API testing with Postman, k6 and ZAP presented at an event at SENAI on 08/17/2024. | 2024-08-17 | https://github.com/renatogroffe/Testes-APIs-SENAI-2024-08 |
 | Fake greeting API built with NGINX for vulnerability testing. | 2024-08-17 | https://github.com/renatogroffe/NGINX-FakeAPI_Saudacao |
 | GitHub Actions workflow for building images from a REST API using Podman. | 2024-08-12 | https://github.com/renatogroffe/GitHubActions-Workflow-Podman-APIMetrics |
