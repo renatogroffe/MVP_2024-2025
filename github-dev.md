@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 Number of repositories: **137**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Podman, Apache Kafka, React Native, JavaScript, macOS, iOS, Android...**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Podman, Mermaid, Apache Kafka, React Native, JavaScript, macOS, iOS, Android...**
 
 **First repository created on April 02, 2024.**
 
