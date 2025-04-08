@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 Number of repositories: **137**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Podman, Mermaid, Apache Kafka, React Native, JavaScript, macOS, iOS, Android...**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Podman, Mermaid, Apache Kafka, React Native, JavaScript, macOS, iOS, Android, Flutter, React Native...**
 
 **First repository created on April 02, 2024.**
 
@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Mobile app created with React Native for build automation testing. | 2024-09-16 | https://github.com/renatogroffe/ReactNative-AppHelloWorld |
 | Example of using an GitHub Actions workflow in a macOS environment to build a React Native app on Android. | 2024-09-16 | https://github.com/renatogroffe/GitHubActions-ReactNative-Android-Build |
 | Example of using an Azure DevOps pipeline in a macOS environment to build a React Native app on Android. | 2024-09-16 | https://github.com/renatogroffe/AzurePipelines-ReactNative-Android-Build |
 | Example Console Application created in .NET 8 and that uses a Partial Method for validations in conjunction with the GeneratedRegex attribute. | 2024-09-16 | https://github.com/renatogroffe/DotNet8-ConsoleApp-PartialMethod-GeneratedRegex |
