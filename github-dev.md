@@ -15,6 +15,10 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+| Console App created in .NET 9 to simulate a notification job with sending HTTP calls to a generic endpoint. This project also makes use of the Serilog library. | 2024-11-13 | 
+
+
 | Console App created in .NET 9 to simulate a notification job with sending HTTP calls to a generic endpoint. This project also makes use of the Serilog library. | 2024-11-13 | https://github.com/renatogroffe/DotNet9-ConsoleApp_JobNotificacaoHttp |
 | Example of a REST API created with .NET 8 + ASP.NET Core + Minimal APIs for receiving notifications via Webhook and displaying the corresponding contents as logs in JSON format. | 2024-11-11 | https://github.com/renatogroffe/ASPNETCore8-REST_API-Logging-MonitoramentoWebhooks |
 | Example in .NET 9 of Console Application that demonstrates the possibility of displaying on screen the condition specified in a Debug.Assert statement (when it fails). | 2024-11-11 | https://github.com/renatogroffe/DotNet9-ConsoleApp-DebugAssert |
@@ -27,6 +31,7 @@ The table below describes each of the projects, including links to view each of 
 | Example GitHub Actions workflow using a macOS environment to build a React Native app on Android in .aab (Android App Bundles) format. | 2024-10-17 | https://github.com/renatogroffe/GitHubActions-ReactNative-AndroidAppBuild-Build |
 | Presentation content on load and stress testing with k6. Talk held on 10/16/2024. | 2024-10-16 | https://github.com/renatogroffe/k6-LoadTests-2024-10 |
 | Example in .NET 9 of a Console Application that uses the generic type OrderedDictionary<TKey,TValue>, enabling the creation of key-value structures with ordering. | 2024-10-02 | https://github.com/renatogroffe/DotNet9-ConsoleApp-OrderedDictionary |
+| Examples of Mermaid diagrams generated with the help of GitHub Copilot. | 2024-09-27 | https://github.com/renatogroffe/Mermaid-Copilot |
 | Example in .NET 9 of a Console Application that makes use of new methods made available for the JsonOrder type - such as IndexOf and Insert, in order to allow manipulation of the order of items in a JSON content. | 2024-09-23 | https://github.com/renatogroffe/DotNet9-ConsoleApp-JsonObject-Order |
 | Example in .NET 9 of Console Application that makes use of the JsonSchemaExporter type - alternative to serialize the structure of a type/class into a string containing a JSON schema. | 2024-09-23 | https://github.com/renatogroffe/DotNet9-ConsoleApp-JsonSchemaExporter |
 | Example in .NET 9 + C#13 of Console Application that makes use of a Partial Property. | 2024-09-17 | https://github.com/renatogroffe/CSharp13-ConsoleApp-PartialProperty |
