@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of using OpenTelemetry + Grafana + Tempo + Loki with .NET 8, ASP.NET Core, REST APIs and MySQL in an access counting API. This application demonstrates the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki. | 2024-08-29 | https://github.com/renatogroffe/DotNet8-OpenTelemetry-Grafana-Tempo-Loki-MySql_APIContagem |
 | Example of using OpenTelemetry + Grafana + Tempo + Loki with .NET 8, ASP.NET Core, REST APIs and PostgreSQL in an access counting API. This application demonstrates the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki. | 2024-08-29 | https://github.com/renatogroffe/DotNet8-OpenTelemetry-Grafana-Tempo-Loki-PostgreSQL_APIContagem |
 | Example with settings to define a Rate Limit per Subscription Key for Azure API Management. | 2024-08-13 | https://github.com/renatogroffe/APIM-RateLimit-SubscriptionKey |
 | Scripts for deploying a Worker Service on Kubernetes, scaling through the use of API Metrics with KEDA (Kubernetes Event-driven Autoscaling). Also includes the use of a Trigger Authentication informing the Subscription Key to an Azure API Management endpoint. | 2024-08-12 | https://github.com/renatogroffe/KEDA-APIMetrics-AzureAPIM |
