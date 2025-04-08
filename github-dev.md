@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Examples and recommendations for creating architectural diagrams using Excalidraw, Mermaid and Draw.io. Content presented on 07/25/2024. | 2024-07-25 | https://github.com/renatogroffe/DiagramasArquitetura-2024-07 |
 | Example of a REST API for access counting created with .NET 8 + ASP.NET Core + Web APIs (Controllers), using extensions defined in a Class Library to use JWE (JSON Web Encryption) and configurations so that Swagger supports tokens. Includes .http files for testing from VS Code, as well as claims in various formats. | 2024-07-16 | https://github.com/renatogroffe/ASPNETCore8-WebApi-JWE-Swagger-Extensions-HttpFiles_ContagemAcessos |
 | Example of consuming a REST API for access counting protected by encrypted tokens (JWE) in .NET 8 and using the Refit and Jose libraries, with failure handling through the Polly library. | 2024-07-16 | https://github.com/renatogroffe/DotNet8-Refit-JWE-Polly-Jose_ConsumoAPIContagem |
 | Example of consuming a token-protected access counting REST API (JWT) in .NET 8 and using the Flurl and Jose libraries, with failure handling through the Polly library. | 2024-07-15 | https://github.com/renatogroffe/DotNet8-Flurl-JWT-Polly-Jose_ConsumoAPIContagem |
