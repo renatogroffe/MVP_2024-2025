@@ -15,6 +15,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | ------------ | ---- | ---- |
 | Example with settings to define a Rate Limit per Subscription Key for Azure API Management. | 2024-08-13 | https://github.com/renatogroffe/APIM-RateLimit-SubscriptionKey |
 | Scripts for deploying a Worker Service on Kubernetes, scaling through the use of API Metrics with KEDA (Kubernetes Event-driven Autoscaling). Also includes the use of a Trigger Authentication informing the Subscription Key to an Azure API Management endpoint. | 2024-08-12 | https://github.com/renatogroffe/KEDA-APIMetrics-AzureAPIM |
+| Examples of using OpenTelemetry + Grafana + Tempo with .NET 8, ASP.NET Core, REST APIs and PostgreSQL. These applications demonstrate the implementation of distributed tracing with Grafana Tempo. | 2024-07-26 | https://github.com/renatogroffe/OpenTelemetry-Grafana-Tempo-DotNet8-APIs-PostgreSQL |
 | Example of using KEDA with Apache Kafka demonstrated on the D.E.P.L.O.Y channel on 07/17/2024. | 2024-07-17 | https://github.com/renatogroffe/KEDA-Kafka_D.E.P.L.O.Y-2024-07 |
 | Example of using KEDA's PostgreSQL scaler to scale a Worker based on the volume of raw data in a database. | 2024-07-12 | https://github.com/renatogroffe/Kubernetes-kind-KEDA-PostgreSQL-Worker |
 | Example of using KEDA's MSSQL scaler to scale a Worker based on the volume of raw data in a SQL Server/Azure SQL database. | 2024-07-04 | https://github.com/renatogroffe/Kubernetes-KEDA-MSSQL-Worker |
