@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 Number of repositories: **58**
 
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core ---- Kubernetes, Azure Kubernetes Service, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core, Azure DevOps, GitHub Actions ---- Kubernetes, Azure Kubernetes Service, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration**
 
 **First repository created on April 10, 2024.**
 
@@ -13,6 +13,10 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+
+
 | Pipeline demonstrating the use of the Trivy tool to scan for vulnerabilities in container images. | 2024-09-30 | https://github.com/renatogroffe/AzureDevOps-Trivy-DotNet6 |
 | Content about Azure Functions + .NET used in an event promoted by the Sharebook community on 09/13/2024. | 2024-09-13 | https://github.com/renatogroffe/AzureFunctions-Dotnet8_Sharebook-2024-09 |
 | Examples of using OpenTelemetry + Grafana + Tempo + Loki with .NET 8 + ASP.NET Core in REST APIs. These applications also demonstrate the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki, also using SQL Server, PostgreSQL and MySQL. | 2024-09-12 | https://github.com/renatogroffe/DotNet8-OpenTelemetry-Grafana-Tempo-Loki-SqlServer-MySql-PostgreSQL |
