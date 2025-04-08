@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of a REST API for access counting created with .NET 8 + ASP.NET Core + Controllers (Web API), using extensions defined in a Class Library to use JWT (JSON Web Tokens) and configurations so that Swagger supports tokens. Includes .http files for testing from Visual Studio Code. | 2024-06-22 | https://github.com/renatogroffe/ASPNETCore8-WebAPI-JWT-Swagger-Extensions-HttpFiles_ContagemAcessos |
 | Contents about OWASP API Security Top 10 from a presentation held on 06/20/2024. | 2024-06-20 | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_2024-06 |
 | Azure DevOps pipeline for automated execution of k6-based load tests and sending messages to a RabbitMQ queue. | 2024-06-20 | https://github.com/renatogroffe/AzureDevOps-Pipelines-RabbitMQ-k6-LoadTests_v2 |
 | Examples demonstrating new features in .NET 9, C# 13, and ASP.NET Core. .NET 9 Preview 4 was used in this example. | 2024-06-05 | https://github.com/renatogroffe/DotNet9-2024-06 |
