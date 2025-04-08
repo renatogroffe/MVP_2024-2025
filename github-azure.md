@@ -14,6 +14,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Example with settings to define a Rate Limit per Subscription Key for Azure API Management. | 2024-08-13 | https://github.com/renatogroffe/APIM-RateLimit-SubscriptionKey |
+| Example of using KEDA's MSSQL scaler to scale a Worker based on the volume of raw data in a SQL Server/Azure SQL database | 2024-07-04 | https://github.com/renatogroffe/Kubernetes-KEDA-MSSQL-Worker |
 | Objects for Deployment of a Consumer (access count) in Kubernetes using KEDA, Helm, RabbitMQ and .NET 8. | 2024-07-04 | https://github.com/renatogroffe/Kubernetes-KEDA-RabbitMQ-DotNet8-Consumer_ContagemAcessos |
 | Lecture contents on Kubernetes + KEDA presented on 07/02/2024. | 2024-07-02 | https://github.com/renatogroffe/KEDA_DevOpsPro-2024-07 |
 | Objects for Deployment of a Worker Service (poll calculation about the Copa América 2024) in Kubernetes using KEDA, Helm, Azure Event Hubs, .NET 8 and SQL Server. | 2024-07-02 | https://github.com/renatogroffe/KEDA-AzureEventHubs_EnqueteCopaAmerica2024 |
