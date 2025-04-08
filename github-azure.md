@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of a Flowchart created with Mermaid detailing the relationship of Azure API Management (APIM) elements: APIs, Products and Subscription Keys. | 2024-09-03 | https://github.com/renatogroffe/Mermaid-AzureAPIM_Elements |
 | Slides and content about Microservices + Scalability with Kubernetes presented at an event at UniMetrocamp on 08/31/2024. | 2024-08-31 | https://github.com/renatogroffe/Microservices-Kubernetes-UniMetrocamp-2024-08 |
 | Example of using OpenTelemetry + Grafana + Tempo + Loki with .NET 8, ASP.NET Core and Back-End consumption of an orchestration API. This application also demonstrates the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki. | 2024-08-29 | https://github.com/renatogroffe/DotNet8-OpenTelemetry-Grafana-Tempo-Loki_APIOrquestracao |
 | Example of using OpenTelemetry + Grafana + Tempo + Loki with .NET 8, ASP.NET Core, REST APIs and MySQL in an access counting API. This application demonstrates the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki. | 2024-08-29 | https://github.com/renatogroffe/DotNet8-OpenTelemetry-Grafana-Tempo-Loki-MySql_APIContagem |
