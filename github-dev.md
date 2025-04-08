@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Entity-relationship diagrams for databases using Mermaid. | 2024-09-02 | https://github.com/renatogroffe/Mermaid-DBs |
 | Example in .NET 9 + C#13 of Console Application that makes use of the ^ operator (also known as index from the end) to assign values ​​to a collection when creating/initializing an object (of which such Collection is part). | 2024-09-02 | https://github.com/renatogroffe/CSharp13-ConsoleApp-IndexEndInitializer |
 | Contents about OWASP API Security Top 10 from a presentation held on 08/24/2024. | 2024-08-23 | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_Reactor-2024-08 |
 | Example of implementing load testing with k6 for PostgreSQL, including automated execution from an Azure DevOps pipeline. | 2024-08-19 | https://github.com/renatogroffe/k6-Postgres-LoadTests-AzureDevOps-Pipelines |
