@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Examples of Grafana dashboards useful for monitoring a Kubernetes cluster and that rely on Prometheus metrics. | 2024-11-11 | https://github.com/renatogroffe/Kubernetes-Grafana-Prometheus_Dashboards |
 | Slides and content on monitoring and observability of computational resources with Grafana presented at an event at SENAI on 10/19/2024. | 2024-10-19 | https://github.com/renatogroffe/Grafana_SENAI-2024-10 |
 | Example of load testing implementation (JWT-protected REST API) in JavaScript to be executed with the k6 tool + Entra ID + Azure API Management, including the generation of reports with the results through the k6-reporter project and export also to JUnit (.xml file). This repository also includes an Azure DevOps Pipeline. | 2024-10-10 | https://github.com/renatogroffe/k6-EntraID-APIM-LoadTests-Reports-JUnit-JWT-AzureDevOps_ContagemAcessos |
 | Environment creation scripts for using OpenTelemetry + Grafana + Jaeger + Loki with .NET 8 + ASP.NET Core in REST APIs. These applications also demonstrate the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki, also using SQL Server, PostgreSQL and MySQL. | 2024-10-09 | https://github.com/renatogroffe/OpenTelemetry-Jaeger-Loki-SqlServer-MySql-PostgreSQL |
