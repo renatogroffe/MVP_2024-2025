@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of implementation in .NET 8 (Console App) of benchmarking with tests comparing the performance of Dapper, Dapper.Contrib, ADO.NET and Entity Framework Core in data inclusions in MySQL, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package. | 2024-09-02 | https://github.com/renatogroffe/DotNet8-BenchmarkDotNet-Tests-InputData-MySql-Dapper-EFCore-ADO |
 | Entity-relationship diagrams for databases using Mermaid. | 2024-09-02 | https://github.com/renatogroffe/Mermaid-DBs |
 | Example in .NET 9 + C#13 of Console Application that makes use of the ^ operator (also known as index from the end) to assign values ​​to a collection when creating/initializing an object (of which such Collection is part). | 2024-09-02 | https://github.com/renatogroffe/CSharp13-ConsoleApp-IndexEndInitializer |
 | Contents about OWASP API Security Top 10 from a presentation held on 08/24/2024. | 2024-08-23 | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_Reactor-2024-08 |
