@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of a REST API created with .NET 8 + ASP.NET Core + Minimal APIs for receiving notifications via Webhook and displaying the corresponding contents as logs in JSON format. | 2024-11-11 | https://github.com/renatogroffe/ASPNETCore8-REST_API-Logging-MonitoramentoWebhooks |
 | Example in .NET 9 of Console Application that demonstrates the possibility of displaying on screen the condition specified in a Debug.Assert statement (when it fails). | 2024-11-11 | https://github.com/renatogroffe/DotNet9-ConsoleApp-DebugAssert |
 | Contents about BDD with .NET from a presentation held on 11/07/2024. | 2024-11-07 | https://github.com/renatogroffe/BDD-DotNet8-2024-11 |
 | Azure DevOps pipeline for automated Cypress test execution, with results exported to a standard JUnit XML file (and published in the execution results). | 2024-11-07 | https://github.com/renatogroffe/Cypress-JUnitReport-AzureDevOps-Pipeline |
