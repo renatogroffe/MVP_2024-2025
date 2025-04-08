@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of a REST API for access counting created with .NET 8 + ASP.NET Core + Web APIs (Controllers), using extensions defined in a Class Library to use JWT (JSON Web Tokens) and configurations so that Swagger supports tokens. Includes .http files for testing from VS Code, as well as claims in various formats. | 2024-07-15 | https://github.com/renatogroffe/ASPNETCore8-WebApi-JWT-Swagger-Extensions-CustomClaims-HttpFiles_ContagemAcessos |
 | RabbitMQ queue consumer using .NET 8 and Minimal APIs (Oragon.RabbitMQ project). | 2024-07-03 | https://github.com/renatogroffe/DotNet8-Consumer-RabbitMQ-MinimalAPIs_ContagemAcessos |
 | Example of REST API implementation in .NET 8 + ASP.NET Core with 1:n relationship between tables (Regions x States) and using a SQL Server database. Includes monitoring with MiniProfiler. | 2024-06-22 | https://github.com/renatogroffe/ASPNETCore8-Dapper-SqlServer-One_To_Many |
 | Example of a REST API for access counting created with .NET 8 + ASP.NET Core + Controllers (Web API), using extensions defined in a Class Library to use JWT (JSON Web Tokens) and configurations so that Swagger supports tokens. Includes .http files for testing from Visual Studio Code. | 2024-06-22 | https://github.com/renatogroffe/ASPNETCore8-WebAPI-JWT-Swagger-Extensions-HttpFiles_ContagemAcessos |
