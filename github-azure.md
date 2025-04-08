@@ -14,6 +14,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Example with settings to define a Rate Limit per Subscription Key for Azure API Management. | 2024-08-13 | https://github.com/renatogroffe/APIM-RateLimit-SubscriptionKey |
+| Scripts for deploying a Worker Service on Kubernetes, scaling through the use of API Metrics with KEDA (Kubernetes Event-driven Autoscaling). Also includes the use of a Trigger Authentication informing the Subscription Key to an Azure API Management endpoint. | 2024-08-12 | https://github.com/renatogroffe/KEDA-APIMetrics-AzureAPIM |
 | Example of using KEDA's PostgreSQL scaler to scale a Worker based on the volume of raw data in a database. | 2024-07-12 | https://github.com/renatogroffe/Kubernetes-kind-KEDA-PostgreSQL-Worker |
 | Example of using KEDA's MSSQL scaler to scale a Worker based on the volume of raw data in a SQL Server/Azure SQL database. | 2024-07-04 | https://github.com/renatogroffe/Kubernetes-KEDA-MSSQL-Worker |
 | Objects for Deployment of a Consumer (access count) in Kubernetes using KEDA, Helm, RabbitMQ and .NET 8. | 2024-07-04 | https://github.com/renatogroffe/Kubernetes-KEDA-RabbitMQ-DotNet8-Consumer_ContagemAcessos |
