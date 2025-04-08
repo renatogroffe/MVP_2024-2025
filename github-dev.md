@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example in .NET 9 + C#13 of Console Application that makes use of a Partial Property. | 2024-09-17 | https://github.com/renatogroffe/CSharp13-ConsoleApp-PartialProperty |
 | Mobile app created with React Native for build automation testing. | 2024-09-16 | https://github.com/renatogroffe/ReactNative-AppHelloWorld |
 | Example of using an GitHub Actions workflow in a macOS environment to build a React Native app on Android. | 2024-09-16 | https://github.com/renatogroffe/GitHubActions-ReactNative-Android-Build |
 | Example of using an Azure DevOps pipeline in a macOS environment to build a React Native app on Android. | 2024-09-16 | https://github.com/renatogroffe/AzurePipelines-ReactNative-Android-Build |
