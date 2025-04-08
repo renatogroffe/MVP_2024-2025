@@ -14,6 +14,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Example with settings to define a Rate Limit per Subscription Key for Azure API Management. | 2024-08-13 | https://github.com/renatogroffe/APIM-RateLimit-SubscriptionKey |
+| Objects for Deployment of a Consumer (access count) in Kubernetes using KEDA, Helm, RabbitMQ and .NET 8. | 2024-07-04 | https://github.com/renatogroffe/Kubernetes-KEDA-RabbitMQ-DotNet8-Consumer_ContagemAcessos |
 | Lecture contents on Kubernetes + KEDA presented on 07/02/2024. | 2024-07-02 | https://github.com/renatogroffe/KEDA_DevOpsPro-2024-07 |
 | Objects for Deployment of a Worker Service (poll calculation about the Copa América 2024) in Kubernetes using KEDA, Helm, Azure Event Hubs, .NET 8 and SQL Server. | 2024-07-02 | https://github.com/renatogroffe/KEDA-AzureEventHubs_EnqueteCopaAmerica2024 |
 | Example of a Worker Service in .NET 8 + Azure Event Hubs for processing events involving responses to a poll about the favorite in the Copa América 2024 and recording these occurrences in SQL Server (via Dapper.Contrib). Includes monitoring through Application Insights, as well as a Dockerfile for generating a Linux image. | 2024-07-02 | https://github.com/renatogroffe/DotNet8-Worker-AzureEventHubs-SqlServer-Dapper-AppInsightsConnString-Processor_EnqueteCopaAmerica |
