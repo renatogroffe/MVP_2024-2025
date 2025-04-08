@@ -13,7 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-| Pipeline demonstrating the use of the Trivy tool to scan for vulnerabilities in container images. | 2024-09-30 | https://github.com/renatogroffe/AzureFunctions-Dotnet8_Sharebook-2024-09 |
+| Pipeline demonstrating the use of the Trivy tool to scan for vulnerabilities in container images. | 2024-09-30 | https://github.com/renatogroffe/AzureDevOps-Trivy-DotNet6 |
 | Content about Azure Functions + .NET used in an event promoted by the Sharebook community on 09/13/2024. | 2024-09-13 | https://github.com/renatogroffe/AzureFunctions-Dotnet8_Sharebook-2024-09 |
 | Examples of using OpenTelemetry + Grafana + Tempo + Loki with .NET 8 + ASP.NET Core in REST APIs. These applications also demonstrate the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki, also using SQL Server, PostgreSQL and MySQL. | 2024-09-12 | https://github.com/renatogroffe/DotNet8-OpenTelemetry-Grafana-Tempo-Loki-SqlServer-MySql-PostgreSQL |
 | Example of using OpenTelemetry + Grafana + Tempo + Loki + RabbitMQ with .NET 8, ASP.NET Core, REST APIs and PostgreSQL in a hit counting API. This application demonstrates the implementation of distributed tracing with Grafana Tempo and logging with Grafana Loki, including monitoring queue usage. | 2024-09-04 | https://github.com/renatogroffe/ASPNETCore8-OpenTelemetry-Grafana-Tempo-Loki-RabbitMQ-PostgreSQL_APIContagem |
