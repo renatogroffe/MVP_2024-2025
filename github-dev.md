@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline for automated Cypress test execution, with results exported to a standard JUnit XML file (and published in the execution results) | 2024-11-07 | https://github.com/renatogroffe/Cypress-JUnitReport-AzureDevOps-Pipeline |
 | Example in .NET 9 of Console Application that makes use of the ReadOnlySet<T> type. | 2024-11-03 | https://github.com/renatogroffe/DotNet9-ConsoleApp-ReadOnlySet |
 | Diagrams created in Mermaid involving items that are part of the OWASP API Security Top 10 vulnerability list. | 2024-10-25 | https://github.com/renatogroffe/OWASPAPISecurityTop10-Mermaid |
 | Example in .NET 9 of Console Application that uses the Base64Url type to encode/decode strings in base64 standard. | 2024-10-25 | https://github.com/renatogroffe/DotNet9-ConsoleApp-Base64Url |
