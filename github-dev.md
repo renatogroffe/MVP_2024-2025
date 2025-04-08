@@ -16,6 +16,7 @@ The table below describes each of the projects, including links to view each of 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Example in .NET 9 of Console Application that makes use of the ReadOnlySet<T> type. | 2024-11-03 | https://github.com/renatogroffe/DotNet9-ConsoleApp-ReadOnlySet |
+| Example GitHub Actions workflow using a macOS environment to build a React Native app on Android in .aab (Android App Bundles) format. | 2024-10-17 | https://github.com/renatogroffe/GitHubActions-ReactNative-AndroidAppBuild-Build |
 | Presentation content on load and stress testing with k6. Talk held on 10/16/2024. | 2024-10-16 | https://github.com/renatogroffe/k6-LoadTests-2024-10 |
 | Example in .NET 9 of a Console Application that uses the generic type OrderedDictionary<TKey,TValue>, enabling the creation of key-value structures with ordering. | 2024-10-02 | https://github.com/renatogroffe/DotNet9-ConsoleApp-OrderedDictionary |
 | Example in .NET 9 of a Console Application that makes use of new methods made available for the JsonOrder type - such as IndexOf and Insert, in order to allow manipulation of the order of items in a JSON content. | 2024-09-23 | https://github.com/renatogroffe/DotNet9-ConsoleApp-JsonObject-Order |
