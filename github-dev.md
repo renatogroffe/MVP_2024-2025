@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Slides and content on REST API testing with Postman, k6 and ZAP presented at an event at SENAI on 08/17/2024. | 2024-08-17 | https://github.com/renatogroffe/Testes-APIs-SENAI-2024-08 |
 | Fake greeting API built with NGINX for vulnerability testing. | 2024-08-17 | https://github.com/renatogroffe/NGINX-FakeAPI_Saudacao |
 | GitHub Actions workflow for building images from a REST API using Podman. | 2024-08-12 | https://github.com/renatogroffe/GitHubActions-Workflow-Podman-APIMetrics |
 | GitHub Actions workflow for building Worker Service images using Podman. | 2024-08-12 | https://github.com/renatogroffe/GitHubActions-Workflow-Podman-Worker |
