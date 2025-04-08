@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of using an GitHub Actions workflow in a macOS environment to build a React Native app on Android. | 2024-09-16 | https://github.com/renatogroffe/GitHubActions-ReactNative-Android-Build |
 | Example of using an Azure DevOps pipeline in a macOS environment to build a React Native app on Android. | 2024-09-16 | https://github.com/renatogroffe/AzurePipelines-ReactNative-Android-Build |
 | Example Console Application created in .NET 8 and that uses a Partial Method for validations in conjunction with the GeneratedRegex attribute. | 2024-09-16 | https://github.com/renatogroffe/DotNet8-ConsoleApp-PartialMethod-GeneratedRegex |
 | Example of implementation in .NET 8 (Console App) of benchmarking with tests comparing the performance of Dapper, Dapper.Contrib, ADO.NET and Entity Framework Core in data inclusions in MySQL, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package. | 2024-09-02 | https://github.com/renatogroffe/DotNet8-BenchmarkDotNet-Tests-InputData-MySql-Dapper-EFCore-ADO |
