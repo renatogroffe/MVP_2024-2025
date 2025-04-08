@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 Number of repositories: **137**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Apache Kafka, React Native, JavaScript, macOS, iOS, Android...**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Podman, Apache Kafka, React Native, JavaScript, macOS, iOS, Android...**
 
 **First repository created on April 02, 2024.**
 
@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| GitHub Actions workflow for building Worker Service images using Podman. | 2024-08-12 | https://github.com/renatogroffe/GitHubActions-Workflow-Podman-Worker |
 | REST API created with .NET 8 + ASP.NET Core used in the simulation of metrics for tests with KEDA (Kubernetes Event-Driven Autoscaling). Includes Dockerfile for image generation. | 2024-08-12 | https://github.com/renatogroffe/ASPNETCore8-RESTAPI-Metrics-Dockerfile_Simulation |
 | Examples and recommendations for creating architectural diagrams using Excalidraw, Mermaid and Draw.io. Content presented on 07/25/2024. | 2024-07-25 | https://github.com/renatogroffe/DiagramasArquitetura-2024-07 |
 | Example of a REST API for access counting created with .NET 8 + ASP.NET Core + Web APIs (Controllers), using extensions defined in a Class Library to use JWE (JSON Web Encryption) and configurations so that Swagger supports tokens. Includes .http files for testing from VS Code, as well as claims in various formats. | 2024-07-16 | https://github.com/renatogroffe/ASPNETCore8-WebApi-JWE-Swagger-Extensions-HttpFiles_ContagemAcessos |
