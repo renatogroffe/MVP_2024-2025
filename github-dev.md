@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of REST API implementation in .NET 8 + ASP.NET Core with 1:n relationship between tables (Regions x States) and using a SQL Server database. Includes monitoring with MiniProfiler. | 2024-06-22 | https://github.com/renatogroffe/ASPNETCore8-Dapper-SqlServer-One_To_Many |
 | Example of a REST API for access counting created with .NET 8 + ASP.NET Core + Controllers (Web API), using extensions defined in a Class Library to use JWT (JSON Web Tokens) and configurations so that Swagger supports tokens. Includes .http files for testing from Visual Studio Code. | 2024-06-22 | https://github.com/renatogroffe/ASPNETCore8-WebAPI-JWT-Swagger-Extensions-HttpFiles_ContagemAcessos |
 | Contents about OWASP API Security Top 10 from a presentation held on 06/20/2024. | 2024-06-20 | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_2024-06 |
 | Azure DevOps pipeline for automated execution of k6-based load tests and sending messages to a RabbitMQ queue. | 2024-06-20 | https://github.com/renatogroffe/AzureDevOps-Pipelines-RabbitMQ-k6-LoadTests_v2 |
