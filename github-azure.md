@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline demonstrating the use of Docker Scout to scan container images for vulnerabilities. | 2024-11-28 | https://github.com/renatogroffe/AzureDevOps-DockerScout-DotNet6 |
 | GitHub Actions workflow demonstrating the use of Docker Scout to scan container images for vulnerabilities. | 2024-11-28 | https://github.com/renatogroffe/GitHubActions-DockerScout-DotNet6 |
 | Slides and content about Microservices + Scalability with Kubernetes used in presentation on 11/21/2024. | 2024-11-21 | https://github.com/renatogroffe/Microservices-Kubernetes-2024-11 |
 | Slides and content from a presentation on Azure Container Apps held on 11/13/2024. | 2024-11-13 | https://github.com/renatogroffe/AzureContainerApps_2024-11 |
