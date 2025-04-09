@@ -16,6 +16,7 @@ The table below describes each of the projects, including links to view each of 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | GitHub Actions workflow demonstrating license analysis with FOSSA Platform in a project that uses .NET 8 and FluentAssertions. | 2025-01-22 | https://github.com/renatogroffe/GitHubActions-FOSSA-DotNet-FluentAssertions |
+| Example of a REST API that returns the current time created with .NET 9 + ASP.NET Core + Minimal APIs + Swagger/OpenAPI and using HybridCache In-Memory. | 2025-01-11 | https://github.com/renatogroffe/ASPNETCore9-REST_API-Minimal-HybridCacheInMemory_HorarioAtual |
 | Content on security in Artificial Intelligence solutions, including graphics, videos, examples and information from the OWASP Top 10 list for LLMs and Gen AI Apps. | 2024-12-11 | https://github.com/renatogroffe/OWASP-AI |
 | Contents about OWASP API Security Top 10 from a presentation held on 12/11/2024. Also includes information about OWASP initiatives for Docker/containers and Artificial Intelligence. | 2024-12-11 | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_2024-12 |
 | Pipeline demonstrating the use of the Snyk tool to scan for vulnerabilities in container images and dependencies (packages/libraries) in applications. | 2024-12-09 | https://github.com/renatogroffe/AzureDevOps-Snyk-DotNet6 |
