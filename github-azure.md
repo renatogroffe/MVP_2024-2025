@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) + PostgreSQL. Includes the use of Docker Compose to launch an environment that uses the Jaeger project and the OpenTelemetry Collector service. | 2025-02-13 | https://github.com/renatogroffe/ASPNETCore9-DistributedTracing-OpenTelemetry-Jaeger-Postgres_APIContagem |
 | Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in Kubernetes YAML scripts. | 2025-02-03 | https://github.com/renatogroffe/AzureDevOps-Checkov-YAML_Kubernetes |
 | Presentation on Integration Architecture held on 01/30/2025. Technologies and topics covered: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel... | 2025-01-30 | https://github.com/renatogroffe/ArquiteturaIntegracoes-2025-01 |
 | Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in ARM scripts (creating Azure Data Factory resources). | 2025-01-30 | https://github.com/renatogroffe/AzureDevOps-Checkov-ARM-AzureDataFactory |
