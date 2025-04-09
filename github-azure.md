@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Slides and content about Microservices + Scalability with Kubernetes used in presentation on 11/21/2024. | 2024-11-21 | https://github.com/renatogroffe/Microservices-Kubernetes-2024-11 |
 | Slides and content from a presentation on Azure Container Apps held on 11/13/2024. | 2024-11-13 | https://github.com/renatogroffe/AzureContainerApps_2024-11 |
 | Examples of Grafana dashboards useful for monitoring a Kubernetes cluster and that rely on Prometheus metrics. | 2024-11-11 | https://github.com/renatogroffe/Kubernetes-Grafana-Prometheus_Dashboards |
 | Slides and content on monitoring and observability of computational resources with Grafana presented at an event at SENAI on 10/19/2024. | 2024-10-19 | https://github.com/renatogroffe/Grafana_SENAI-2024-10 |
