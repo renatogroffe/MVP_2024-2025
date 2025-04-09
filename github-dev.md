@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline example demonstrating license analysis with OSS Review Toolkit in a project that uses .NET 8 and FluentAssertions. Includes the use of Docker image (ghcr.io/oss-review-toolkit/ort) to perform the checks. | 2025-01-22 | https://github.com/renatogroffe/AzureDevOps-OSSReviewToolkit-DotNet-FluentAssertions |
 | Azure DevOps pipeline demonstrating license analysis with ScanCode in a project that makes use of .NET 8 and FluentAssertions. | 2025-01-22 | https://github.com/renatogroffe/AzureDevOps-ScanCode-DotNet-FluentAssertions |
 | GitHub Actions workflow demonstrating license analysis with FOSSA Platform in a project that uses .NET 8 and FluentAssertions. | 2025-01-22 | https://github.com/renatogroffe/GitHubActions-FOSSA-DotNet-FluentAssertions |
 | Example of a REST API that returns the current time created with .NET 9 + ASP.NET Core + Minimal APIs + Swagger/OpenAPI and using HybridCache In-Memory and in a Redis instance. Includes Docker Compose to create a test environment with Redis. | 2025-01-11 | https://github.com/renatogroffe/ASPNETCore9-REST_API-Minimal-HybridCache_HorarioAtual |
