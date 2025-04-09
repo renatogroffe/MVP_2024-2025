@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Content about using Azure Managed Grafana used in a presentation on 01/17/2025. | 2025-01-17 | https://github.com/renatogroffe/Grafana-Azure_ANP-2025-01 |
 | Contents about OpenTelemetry + Grafana from a presentation held on 01/06/2025 for members of the DEVPIRA community. | 2025-01-06 | https://github.com/renatogroffe/OpenTelemetry-Grafana_DEVPIRA-2025 |
 | Container security content, including charts, videos, examples, and information from the OWASP Docker Top 10 list. | 2024-12-11 | https://github.com/renatogroffe/OWASP-Docker |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Grafana Tempo + OpenTelemetry + Loki + Prometheus + consumption of a REST API. Includes the use of Docker Compose to launch the environment that makes the Grafana stack and the OpenTelemetry Collector service. | 2024-12-07 | https://github.com/renatogroffe/ASPNETCore9-DistributedTracing-OpenTelemetry-Grafana_APIOrquestracao |
