@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in Kubernetes YAML scripts. | 2025-02-03 | https://github.com/renatogroffe/AzureDevOps-Checkov-YAML_Kubernetes |
 | Presentation on Integration Architecture held on 01/30/2025. Technologies and topics covered: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel... | 2025-01-30 | https://github.com/renatogroffe/ArquiteturaIntegracoes-2025-01 |
 | Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in ARM scripts (creating Azure Data Factory resources). | 2025-01-30 | https://github.com/renatogroffe/AzureDevOps-Checkov-ARM-AzureDataFactory |
 | Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in Bicep scripts (creating Azure SQL resources). | 2025-01-30 | https://github.com/renatogroffe/AzureDevOps-Checkov-Bicep-Data |
