@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Content of a presentation held on 12/05/2024 on OpenTelemetry Monitoring and Observability practices. Includes the use of Docker Compose to launch environments that use Grafana and also the Jaeger project. | 2024-12-05 | https://github.com/renatogroffe/OpenTelemetry_2024-12 |
 | GitHub Actions workflow demonstrating the use of the Checkov tool to scan for vulnerabilities in Terraform scripts (creating a VM in Azure). | 2024-12-05 | https://github.com/renatogroffe/GitHubActions-Checkov-Terraform |
 | GitHub Actions workflow with an example of building and publishing an image to Docker Hub with connection via PAT (Personal Access Token). | 2024-12-02 | https://github.com/renatogroffe/AzureDevOps-DockerScout-DotNet6 |
 | Azure DevOps pipeline demonstrating the use of Docker Scout to scan container images for vulnerabilities. | 2024-11-28 | https://github.com/renatogroffe/AzureDevOps-DockerScout-DotNet6 |
