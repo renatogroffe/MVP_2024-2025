@@ -64,6 +64,7 @@ The table below describes each of the projects, including links to view each of 
 | Example in .NET 9 of a Console Application that uses the generic type OrderedDictionary<TKey,TValue>, enabling the creation of key-value structures with ordering. | 2024-10-02 | https://github.com/renatogroffe/DotNet9-ConsoleApp-OrderedDictionary |
 | Examples of Mermaid diagrams generated with the help of GitHub Copilot. | 2024-09-27 | https://github.com/renatogroffe/Mermaid-Copilot |
 | Example in .NET 9 of a Console Application that makes use of new methods made available for the JsonOrder type - such as IndexOf and Insert, in order to allow manipulation of the order of items in a JSON content. | 2024-09-23 | https://github.com/renatogroffe/DotNet9-ConsoleApp-JsonObject-Order |
+| Contents about OWASP API Security Top 10 from a presentation held on 09/19/2024, during TDC São Paulo. | 2024-09-19 | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_TDC-SP-2024 |
 | Example in .NET 9 of Console Application that makes use of the JsonSchemaExporter type - alternative to serialize the structure of a type/class into a string containing a JSON schema. | 2024-09-23 | https://github.com/renatogroffe/DotNet9-ConsoleApp-JsonSchemaExporter |
 | Example in .NET 9 + C#13 of Console Application that makes use of a Partial Property. | 2024-09-17 | https://github.com/renatogroffe/CSharp13-ConsoleApp-PartialProperty |
 | Mobile app created with React Native for build automation testing. | 2024-09-16 | https://github.com/renatogroffe/ReactNative-AppHelloWorld |
