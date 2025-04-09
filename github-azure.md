@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Container security content, including charts, videos, examples, and information from the OWASP Docker Top 10 list. | 2024-12-11 | https://github.com/renatogroffe/OWASP-Docker |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Grafana Tempo + OpenTelemetry + Loki + Prometheus + consumption of a REST API. Includes the use of Docker Compose to launch the environment that makes the Grafana stack and the OpenTelemetry Collector service. | 2024-12-07 | https://github.com/renatogroffe/ASPNETCore9-DistributedTracing-OpenTelemetry-Grafana_APIOrquestracao |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Grafana Tempo + OpenTelemetry + Loki + Prometheus + PostgreSQL. Includes the use of Docker Compose to launch the environment that makes the Grafana stack and the OpenTelemetry Collector service. | 2024-12-07 | https://github.com/renatogroffe/ASPNETCore9-DistributedTracing-OpenTelemetry-Grafana_APIContagem |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + PostgreSQL. Includes the use of Docker Compose to launch an environment that uses the Jaeger project and the OpenTelemetry Collector service. | 2024-12-05 | https://github.com/renatogroffe/ASPNETCore9-DistributedTracing-OpenTelemetry-Postgres_APIContagem |
