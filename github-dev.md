@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example in .NET 10 of Console Application that makes use of new overloads of the ISOWeek class for date manipulation. | 2025-02-26 | https://github.com/renatogroffe/DotNet10-ConsoleApp-ISOWeek_Overloads |
 | Example in .NET 10 of a Console Application that makes use of the CompareOptions.NumericOrdering option in the StringComparer class, in order to enable ordering and comparison of numeric values ​​in strings. | 2025-02-26 | https://github.com/renatogroffe/DotNet10-ConsoleApp-Numeric-Ordering-for-String-Comparison |
 | Example of using the open source detect-secrets tool to detect sensitive configurations from an Azure DevOps pipeline (with an application in .NET 6). | 2025-02-04 | https://github.com/renatogroffe/AzureDevOps-detect-secrets-DotNet6 |
 | Azure DevOps pipeline example demonstrating license analysis with OSS Review Toolkit in a project that uses .NET 8 and FluentAssertions. Includes the use of Docker image (ghcr.io/oss-review-toolkit/ort) to perform the checks. | 2025-01-22 | https://github.com/renatogroffe/AzureDevOps-OSSReviewToolkit-DotNet-FluentAssertions |
