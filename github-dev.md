@@ -16,6 +16,7 @@ The table below describes each of the projects, including links to view each of 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | GitHub Actions workflow demonstrating license analysis with FOSSA Platform in a project that uses .NET 8 and FluentAssertions. | 2025-01-22 | https://github.com/renatogroffe/GitHubActions-FOSSA-DotNet-FluentAssertions |
+| Content on security in Artificial Intelligence solutions, including graphics, videos, examples and information from the OWASP Top 10 list for LLMs and Gen AI Apps. | 2024-12-11 | https://github.com/renatogroffe/OWASP-AI |
 | Contents about OWASP API Security Top 10 from a presentation held on 12/11/2024. Also includes information about OWASP initiatives for Docker/containers and Artificial Intelligence. | 2024-12-11 | https://github.com/renatogroffe/OWASP-ApiTop10-Vulnerabilites_2024-12 |
 | Pipeline demonstrating the use of the Snyk tool to scan for vulnerabilities in container images and dependencies (packages/libraries) in applications. | 2024-12-09 | https://github.com/renatogroffe/AzureDevOps-Snyk-DotNet6 |
 | Example in .NET 9 of Console Application that makes use of the SearchValues ​​type and its support for substrings. | 2024-12-02 | https://github.com/renatogroffe/DotNet9-ConsoleApp-SearchValues |
