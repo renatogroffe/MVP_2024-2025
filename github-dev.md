@@ -15,6 +15,7 @@ The table below describes each of the projects, including links to view each of 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline demonstrating the use of Testcontainers in a .NET 9 application that evaluates the performance of data access libraries with SQL Server. | 2025-03-17 | https://github.com/renatogroffe/AzureDevOps-DotNet9-BenchmarkDotNet-Tests-InputData-SqlServer-Testcontainers |
 | Example of a REST API with greetings based on .NET 10 + ASP.NET Core and that exposes the OpenAPI specification also in YAML format. | 2025-02-26 | https://github.com/renatogroffe/ASPNETCore10-OpenApiYAML_Saudacao |
 | Example in .NET 10 of Console Application that makes use of new overloads of the ISOWeek class for date manipulation. | 2025-02-26 | https://github.com/renatogroffe/DotNet10-ConsoleApp-ISOWeek_Overloads |
 | Example in .NET 10 of a Console Application that makes use of the CompareOptions.NumericOrdering option in the StringComparer class, in order to enable ordering and comparison of numeric values ​​in strings. | 2025-02-26 | https://github.com/renatogroffe/DotNet10-ConsoleApp-Numeric-Ordering-for-String-Comparison |
