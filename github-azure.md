@@ -13,6 +13,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in Bicep scripts (creating Azure SQL resources). | 2025-01-30 | https://github.com/renatogroffe/AzureDevOps-Checkov-Bicep-Data |
 | Content about using Azure Managed Grafana used in a presentation on 01/17/2025. | 2025-01-17 | https://github.com/renatogroffe/Grafana-Azure_ANP-2025-01 |
 | Contents about OpenTelemetry + Grafana from a presentation held on 01/06/2025 for members of the DEVPIRA community. | 2025-01-06 | https://github.com/renatogroffe/OpenTelemetry-Grafana_DEVPIRA-2025 |
 | Container security content, including charts, videos, examples, and information from the OWASP Docker Top 10 list. | 2024-12-11 | https://github.com/renatogroffe/OWASP-Docker |
