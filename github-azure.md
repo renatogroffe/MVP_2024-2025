@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 
 Number of repositories: **58**
 
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, .NET, ASP.NET Core, Azure DevOps, GitHub Actions ---- Kubernetes, Azure Kubernetes Service, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, Terraform, .NET, ASP.NET Core, Azure DevOps, GitHub Actions ---- Kubernetes, Azure Kubernetes Service, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration**
 
 **First repository created on April 10, 2024.**
 
