@@ -16,6 +16,7 @@ The table below describes each of the projects, including links to view each of 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Azure DevOps pipeline demonstrating the use of Testcontainers in a .NET 9 application that evaluates the performance of data access libraries with SQL Server. | 2025-03-17 | https://github.com/renatogroffe/AzureDevOps-DotNet9-BenchmarkDotNet-Tests-InputData-SqlServer-Testcontainers |
+| Console App created in .NET 9 for testing with SQL Server + containers using the Testcontainers project. | 2025-03-14 | https://github.com/renatogroffe/DotNet9-ConsoleApp-Testcontainers-SqlServer |
 | GitHub Actions workflow for security analysis with the Mobile Security Framework (MobSF) on .apk (Android) and .ipa (iOS) files. | 2025-03-12 | https://github.com/renatogroffe/GitHubActions-MobSF-Android-iOS-Security |
 | Azure DevOps pipeline for security analysis with the Mobile Security Framework (MobSF) on .apk (Android) and .ipa (iOS) files. | 2025-03-12 | https://github.com/renatogroffe/AzureDevOps-MobSF-Android-iOS-Security |
 | Example of implementation in .NET 9 (Console App) of benchmarking with tests comparing the performance of Dapper, ADO.NET and Entity Framework Core in data inclusions in SQL Server, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package, in addition to using DbUp. | 2025-02-27 | https://github.com/renatogroffe/DotNet9-BenchmarkDotNet-Tests-InputData-SqlServer-Dapper-EFCore-ADO-DbUp |
