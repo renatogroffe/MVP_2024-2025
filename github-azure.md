@@ -14,6 +14,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Contents of the talk I gave to the ACBr community on 02/05/2025. | 2025-02-23 | https://github.com/renatogroffe/Containers_ACBr-2024-02 |
+| Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Elastic APM + OpenTelemetry (configuring the Collector port) + PostgreSQL. Includes the use of Docker Compose to launch an environment that uses APM. | 2025-02-13 | https://github.com/renatogroffe/ASPNETCore9-DistributedTracing-OpenTelemetry-ElasticAPM-Postgres_APIContagem |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) + PostgreSQL. Includes the use of Docker Compose to launch an environment that uses the Jaeger project and the OpenTelemetry Collector service. | 2025-02-13 | https://github.com/renatogroffe/ASPNETCore9-DistributedTracing-OpenTelemetry-Jaeger-Postgres_APIContagem |
 | Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in Kubernetes YAML scripts. | 2025-02-03 | https://github.com/renatogroffe/AzureDevOps-Checkov-YAML_Kubernetes |
 | Content on certifications focused on Kubernetes from a presentation held during the January-2025 edition of DevOps Experience. | 2025-01-30 | https://github.com/renatogroffe/CertificacoesKubernetes_DevOpsExperience-2025-01 |
