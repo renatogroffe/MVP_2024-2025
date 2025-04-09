@@ -16,6 +16,7 @@ The table below describes each of the projects, including links to view each of 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Example in .NET 9 + ASP.NET Core + C#13 of a REST API for access counting that uses the Lock class (System.Threading namespace). It also includes the use of the new package for OpenAPI support and the Scalar solution (alternative to Swagger). | 2024-11-23 | https://github.com/renatogroffe/DotNet9-ASPNETCore-OpenAPI-Scalar_APIContagem |
+| Example in .NET 9 + ASP.NET Core + C#13 of a REST API for counting accesses and which uses the EnterScope method of the Lock class (System.Threading namespace). | 2024-11-15 | https://github.com/renatogroffe/CSharp13-Lock_EnterScope-ASPNETCore_APIContagem |
 | Example in .NET 9 + ASP.NET Core + C#13 of a REST API for counting accesses and which uses the Enter and Exit methods of the Lock class (System.Threading namespace). | 2024-11-15 | https://github.com/renatogroffe/CSharp13-Lock_EnterExit-ASPNETCore_APIContagem |
 | Example in .NET 9 + ASP.NET Core + C#13 of a REST API for counting accesses and which uses the TryEnter and Exit methods of the Lock class (System.Threading namespace). | 2024-11-15 | https://github.com/renatogroffe/CSharp13-Lock_TryEnterExit-ASPNETCore_APIContagem |
 | Console App created in .NET 9 to simulate a notification job with sending HTTP calls to a generic endpoint. This project also makes use of the Serilog library. | 2024-11-13 | https://github.com/renatogroffe/DotNet9-ConsoleApp_JobNotificacaoHttp |
