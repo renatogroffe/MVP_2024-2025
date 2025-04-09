@@ -5,7 +5,7 @@ CONTINUAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 
 Number of repositories: **137**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Linux, iOS, Podman, Mermaid, Apache Kafka, React Native, JavaScript, macOS, iOS, Android, Flutter, React Native...**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Entity Framework Core, Polly, xUnit, Testcontainers, Linux, iOS, Podman, Mermaid, Apache Kafka, React Native, JavaScript, macOS, iOS, Android, Flutter...**
 
 **First repository created on April 02, 2024.**
 
@@ -16,6 +16,7 @@ The table below describes each of the projects, including links to view each of 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Azure DevOps pipeline demonstrating the use of Testcontainers in a .NET 9 application that evaluates the performance of data access libraries with SQL Server. | 2025-03-17 | https://github.com/renatogroffe/AzureDevOps-DotNet9-BenchmarkDotNet-Tests-InputData-SqlServer-Testcontainers |
+| Content about Testcontainers from a presentation given during the DevOps Weekend 2025 event, held at the Escola SENAI Suíço-Brasileira in São Paulo-SP. | 2025-03-15 | https://github.com/renatogroffe/Testcontainers_SENAI-2025-03 |
 | GitHub Actions workflow demonstrating the use of Testcontainers in a .NET 9 application that evaluates the performance of data access libraries with SQL Server. | 2025-03-15 | https://github.com/renatogroffe/GitHubActions-DotNet9-BenchmarkDotNet-Tests-InputData-SqlServer-Testcontainers |
 | Example of implementation in .NET 9 (Console App) of benchmarking (version 2) comparing the performance of Dapper, ADO.NET and Entity Framework Core in data inclusions in SQL Server, involving a one-to-many relationship (Company and Contacts). Comparisons were generated with the BenchmarkDotNet package, in addition to using DbUp and Testcontainers. | 2025-03-15 | https://github.com/renatogroffe/DotNet9-BenchmarkDotNet-Tests-InputData-SqlServer-Testcontainers_v2 |
 | Example of implementation in .NET 9 (Console App) of benchmarking with tests comparing the performance of Dapper, ADO.NET and Entity Framework Core in data inclusions in SQL Server, involving a one-to-many relationship (Company and Contacts). Comparisons were generated with the BenchmarkDotNet package, in addition to using DbUp and Testcontainers. | 2025-03-15 | https://github.com/renatogroffe/DotNet9-BenchmarkDotNet-Tests-InputData-SqlServer-Testcontainers |
