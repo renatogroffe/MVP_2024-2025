@@ -21,6 +21,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | GitHub Actions workflow with an example of building and publishing an image to Docker Hub with connection via PAT (Personal Access Token). | 2024-12-02 | https://github.com/renatogroffe/AzureDevOps-DockerScout-DotNet6 |
 | Azure DevOps pipeline demonstrating the use of Docker Scout to scan container images for vulnerabilities. | 2024-11-28 | https://github.com/renatogroffe/AzureDevOps-DockerScout-DotNet6 |
 | GitHub Actions workflow demonstrating the use of Docker Scout to scan container images for vulnerabilities. | 2024-11-28 | https://github.com/renatogroffe/GitHubActions-DockerScout-DotNet6 |
+| Contents about OpenTelemetry + Grafana from a presentation held during the 2024 edition of the Dev Referências event. | 2024-11-23 | https://github.com/renatogroffe/OpenTelemetry-Grafana_DevReferencias-2024 |
 | Slides and content about Microservices + Scalability with Kubernetes used in presentation on 11/21/2024. | 2024-11-21 | https://github.com/renatogroffe/Microservices-Kubernetes-2024-11 |
 | Slides and content from a presentation on Azure Container Apps held on 11/13/2024. | 2024-11-13 | https://github.com/renatogroffe/AzureContainerApps_2024-11 |
 | Examples of Grafana dashboards useful for monitoring a Kubernetes cluster and that rely on Prometheus metrics. | 2024-11-11 | https://github.com/renatogroffe/Kubernetes-Grafana-Prometheus_Dashboards |
