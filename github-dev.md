@@ -1,15 +1,12 @@
 # Repositories - Developer Technologies
 
-CONTINUAR EM: https://github.com/renatogroffe?page=4&tab=repositories
-
-
-Number of repositories: **137**
+Number of repositories: **117**
 
 Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Entity Framework Core, Polly, xUnit, Testcontainers, Linux, iOS, Podman, Mermaid, Apache Kafka, React Native, JavaScript, macOS, iOS, Android, Flutter...**
 
 **First repository created on April 02, 2024.**
 
-**Last repository created on ??? ???, 2025.**
+**Last repository created on March 22, 2025.**
 
 The table below describes each of the projects, including links to view each of these examples.
 
