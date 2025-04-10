@@ -1,6 +1,6 @@
 # Repositories - Microsoft Azure
 
-Number of repositories: **83**
+Number of repositories: **86**
 
 Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure AD B2C, Azure Storage, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, Terraform, .NET, ASP.NET Core, Azure DevOps, GitHub Actions**
 
@@ -11,6 +11,9 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Content on Container Security from a presentation given during the March-2025 edition of DevOps Experience. | 2025-03-27 | https://github.com/renatogroffe/SegurancaContainers_DevOpsExperience-2025-03 |
+| Azure DevOps pipeline with an example of running the Trivy tool to scan for vulnerabilities on a Kubernetes cluster (created via kind for simulation purposes). | 2025-03-27 | https://github.com/renatogroffe/AzureDevOps-Trivy-kind |
+| Azure DevOps pipeline demonstrating the use of the KICS tool to scan for vulnerabilities in Terraform scripts (creating a cluster based on AKS - Azure Kubernetes Service). | 2025-03-27 | https://github.com/renatogroffe/AzureDevOps-KICS-Terraform-AKS |
+| Azure DevOps pipeline demonstrating the use of the Checkov tool to scan for vulnerabilities in a Dockerfile. | 2025-03-27 | https://github.com/renatogroffe/AzureDevOps-Checkov-Dockerfile |
 | Azure DevOps pipeline demonstrating the use of Docker Scout (running via container) to scan for vulnerabilities in container images. | 2025-03-27 | https://github.com/renatogroffe/AzureDevOps-DockerScout_Container-DotNet6 |
 | Contents about Azure Well-Architected Framework from presentation held on 03/22/2025. | 2025-03-22 | https://github.com/renatogroffe/AzureWellArchitected_UniMetrocamp-2025-03 |
 | Contents of the talk I gave to the ACBr community on 02/05/2025. | 2025-02-23 | https://github.com/renatogroffe/Containers_ACBr-2024-02 |
