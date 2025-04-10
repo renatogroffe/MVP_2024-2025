@@ -59,6 +59,7 @@ The table below describes each of the projects, including links to view each of 
 | Contents about BDD with .NET from a presentation held on 11/07/2024. | 2024-11-07 | https://github.com/renatogroffe/BDD-DotNet8-2024-11 |
 | Azure DevOps pipeline for automated Cypress test execution, with results exported to a standard JUnit XML file (and published in the execution results). | 2024-11-07 | https://github.com/renatogroffe/Cypress-JUnitReport-AzureDevOps-Pipeline |
 | Example in .NET 9 of Console Application that makes use of the ReadOnlySet<T> type. | 2024-11-03 | https://github.com/renatogroffe/DotNet9-ConsoleApp-ReadOnlySet |
+| Contents of the presentation "AI + Documentation in Databases: using GitHub Copilot + Mermaid to generate diagrams". Lecture given during Data Saturday in Vitória-ES on 10/26/2024. | 2024-10-25 | https://github.com/renatogroffe/Mermaid-Copilot_DataSaturday-2024-10 |
 | Diagrams created in Mermaid involving items that are part of the OWASP API Security Top 10 vulnerability list. | 2024-10-25 | https://github.com/renatogroffe/OWASPAPISecurityTop10-Mermaid |
 | Example in .NET 9 of Console Application that uses the Base64Url type to encode/decode strings in base64 standard. | 2024-10-25 | https://github.com/renatogroffe/DotNet9-ConsoleApp-Base64Url |
 | Slides and contents of the presentation "React Native + Mobile Apps Build Automation: examples of use with Azure DevOps and GitHub Actions", held at an event at SENAI on 10/19/2024. | 2024-10-19 | https://github.com/renatogroffe/ReactNative-AutomacaoBuild_SENAI-2024-10 |
