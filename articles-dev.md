@@ -14,11 +14,13 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
+| .NET 8 + Dapper in 4 examples: 1:1 and 1:n relationships, monitoring, performance | 2024-04-23 | Article about new features of .NET 9. In this post I cover improvements involving serialization in JSON format: the possibility of configuring indentation in JsonSerializerOptions with the IndentCharacter and IndentSize properties.<br/>Technologies used: .NET 9, C#, Visual Studio 2022, Windows Terminal | https://renatogroffe.medium.com/net-8-dapper-em-4-exemplos-relacionamentos-1-1-e-1-n-monitoramento-performance-76df05f28e6e |
+| .NET 9 - Reference Guide: Articles, Videos and Examples | 2024-04-01 | Article grouping free content such as other posts, videos and examples of using the new features of .NET 8.<br/>Technologies covered: .NET 8 C# 12, ASP.NET Core, Visual Studio Code, Visual Studio, Docker | https://renatogroffe.medium.com/net-9-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-084c7cf04055 |
+| ????? | ??? | ???? | ???? |
+| ????? | ??? | ???? | ???? |
+| ????? | ??? | ???? | ???? |
+| ????? | ??? | ???? | ???? |
 | .NET 9 - New Features: JSON serialization improvements with IndentCharacter and IndentSize | 2024-03-16 | Article about new features of .NET 9. In this post I cover improvements involving serialization in JSON format: the possibility of configuring indentation in JsonSerializerOptions with the IndentCharacter and IndentSize properties.<br/>Technologies used: .NET 9, C#, Visual Studio 2022, Windows Terminal | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-na-serializa%C3%A7%C3%A3o-json-com-indentcharacter-e-indentsize-c6d78aceac62 |
-| ????? | ??? | ???? | ???? |
-| ????? | ??? | ???? | ???? |
-| ????? | ??? | ???? | ???? |
-| ????? | ??? | ???? | ???? |
 | C# 12 - Reference Guide: Articles, Videos and Examples | 2023-05-14 | Article grouping free content such as other posts, videos and examples of using the new features of C# 12.<br/>Technologies covered: C# 12, .NET 8, Visual Studio 2022 | https://renatogroffe.medium.com/c-12-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-1e113bf4f9e2 |
 | .NET 8 - Reference Guide: Articles, Videos and Examples | 2023-05-08 | Article grouping free content such as other posts, videos and examples of using the new features of .NET 8.<br/>Technologies covered: .NET 8 C# 12, ASP.NET Core, Visual Studio Code, Visual Studio, Docker | https://renatogroffe.medium.com/net-8-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-79c4850aaeb |
 | .NET 9 - New Features: JSON serialization improvements with IndentCharacter and IndentSize | 2024-03-16 | Article about new features of .NET 9. In this post I cover improvements involving serialization in JSON format: the possibility of configuring indentation in JsonSerializerOptions with the IndentCharacter and IndentSize properties.<br/>Technologies used: .NET 9, C#, Visual Studio 2022, Windows Terminal | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-na-serializa%C3%A7%C3%A3o-json-com-indentcharacter-e-indentsize-c6d78aceac62 |

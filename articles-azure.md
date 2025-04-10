@@ -14,7 +14,7 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------| ---- | ------------ | ---- |
-| Free Certification: API Gateway Security Best Practices | 2024-03-26 | Article with an overview and tips from a certification I recently completed, free and online: API Gateway Security Best Practices. It is an initiative by APIsec University, with free online training that can be completed easily in a few hours, covering topics such as good security practices in the use of API Gateways and the development of REST APIs.<br/>Technologies covered: Azure API Management, Microsoft Entra ID, Azure AD B2C, JWT, .NET, ASP.NET Core | https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-api-gateway-security-best-practices-feb18932d4a5 |
+| Free Certification: OWASP API Security Top 10 | 2024-04-15 | Article with an overview and tips from a certification I recently completed, free and online: API Security Fundamentals. It is an initiative by APIsec University, with free online training that can be completed easily in a few hours, covering topics such as good practices in the secure development of REST APIs, OWASP vulnerabilities, and ways to protect against attacks. | https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-owasp-api-security-top-10-49187dadd141 |
 | ????? | ??? | ???? | ???? |
 | ????? | ??? | ???? | ???? |
 | ????? | ??? | ???? | ???? |
