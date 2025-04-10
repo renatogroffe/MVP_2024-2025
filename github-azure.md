@@ -1,15 +1,12 @@
 # Repositories - Microsoft Azure
 
+Number of repositories: **82**
 
-CONTINUAR EM: https://github.com/renatogroffe?page=4&tab=repositories
-
-Number of repositories: **58**
-
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure AD B2C, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, Terraform, .NET, ASP.NET Core, Azure DevOps, GitHub Actions ---- Kubernetes, Azure Kubernetes Service, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure AD B2C, Azure Storage, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, Terraform, .NET, ASP.NET Core, Azure DevOps, GitHub Actions**
 
 **First repository created on April 10, 2024.**
 
-**Last repository created on ??? ??, 2025.**
+**Last repository created on March 27, 2025.**
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
