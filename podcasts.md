@@ -1,4 +1,22 @@
+# Participations in Podcasts
+
+Number of episodes: **6**
+
+Main topics: **.NET, C#, ASP.NET Core, Software Architecture, JWT, OWASP, Microsoft Entra ID, Developer Security, Scrum, Agile...**
+
+**First episode publisehd on July 15, 2024.**
+
+**Last episode publisehd on March 05, 2025.**
+
 | Episode | Date | Description | Link |
 | ------------| ---- | ------------ | ---- |
 | DevShow #54 - Refactoring Legacy Software: How to Get Started? | 2025-03-05 | Participation in the DevShow channel podcast discussing techniques to facilitate the migration of legacy software to market-recommended stacks and standards.<br/>Technologies covered: .NET, C#, ASP.NET Core, Software Architecture, Developer Tools, Developer Security, Microsoft Azure | https://devshow.com.br/episode/devshow-54-refatoracao-softwares-legados/ |
 | Papo Pro ACBr - Understanding what containers are and working with them | 2025-02-07 | Participation in a podcast discussing the use of containers and Docker in technology projects, tips, best practices and cloud services supporting containerized applications.<br/>Technologies covered: Docker, Kubernetes, Azure Kubernetes Service, Azure Container Apps, Azure App Service, Grafana, Prometheus, Azure Monitor, .NET, ASP.NET Core... | https://open.spotify.com/episode/5OVA7T51jx8SPOBguUFUAS?si=01356a7c995643d3&nd=1&dlsi=3e1c034c80dc4d1e |
+
+
+
+| DevShow #54 - Refactoring Legacy Software: How to Get Started? | 2025-03-05 | Participation in the DevShow channel podcast discussing techniques to facilitate the migration of legacy software to market-recommended stacks and standards.<br/>Technologies covered: .NET, C#, ASP.NET Core, Software Architecture, Developer Tools, Developer Security, Microsoft Azure | https://devshow.com.br/episode/devshow-54-refatoracao-softwares-legados/ |
+
+
+
+| DevShow #54 - Refactoring Legacy Software: How to Get Started? | 2025-03-05 | Participation in the DevShow channel podcast discussing techniques to facilitate the migration of legacy software to market-recommended stacks and standards.<br/>Technologies covered: .NET, C#, ASP.NET Core, Software Architecture, Developer Tools, Developer Security, Microsoft Azure | https://devshow.com.br/episode/devshow-54-refatoracao-softwares-legados/ |
