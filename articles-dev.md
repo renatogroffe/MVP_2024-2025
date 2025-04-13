@@ -23,10 +23,7 @@ The table below describes each of the articles, including links to view each con
 | C# 13 - New Features: the field keyword | 2024-11-22 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-a-palavra-chave-field-6cbcd783b951 |
 | .NET 9 - New Features: improvements in Debug.Assert | 2024-11-13 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-em-debug-assert-a3efc6f07826 |
 | .NET 9 - New Features: the generic type ReadOnlySet<T> | 2024-11-04 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-o-tipo-gen%C3%A9rico-readonlyset-t-656d78549630 |
-
-
-
-
+| .NET 9 - New Features: improvements involving Base64 encoding | 2024-10-27 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-envolvendo-encoding-em-base64-2497430140ab |
 
 
 
