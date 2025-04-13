@@ -14,6 +14,13 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
+
+
+| .NET 9 - New Features: improvement simplifying failed responses in Minimal APIs in ASP.NET Core | 2024-06-01 | ????<br/>Technologies covered: .NET 9, ASP.NET Core, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhoria-simplificando-respostas-com-falhas-em-minimal-apis-no-asp-net-core-19ccd5c7f39c |
+
+
+
+
 | C# 13 - New Features: params collections | 2024-05-23 | ????<br/>Technologies covered: .NET 9, C# 13, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-params-collections-9c7add544d66 |
 | .NET 9 - New Features: the AggregateBy method in LINQ | 2024-05-23 | ?????????????<<br/>Technologies used: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-params-collections-9c7add544d66 |
 | Visual Studio Code Tips: viewing JWT tokens, running scripts quickly - Part 18    .NET 9 - Reference Guide: Articles, Videos and Examples | 2024-05-02 | ?????????????<br/>Technologies and topics covered: Visual Studio Code, Developer Tools, JWT, Developer Security, PowerShell, Web Development... | https://renatogroffe.medium.com/dicas-de-visual-studio-code-visualizando-tokens-jwt-executando-scripts-rapidamente-pt-18-9a24d918a237 |
