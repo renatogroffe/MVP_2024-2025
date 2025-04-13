@@ -18,6 +18,12 @@ The table below describes each of the articles, including links to view each con
 | .NET 10: First tests with Preview 1 + improvements in date handling with ISOWeek | 2025-03-01 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/net-10-primeiros-testes-com-o-preview-1-melhorias-na-manipula%C3%A7%C3%A3o-de-datas-com-isoweek-b40a16d08a16 |
 | ????? | ??? | ???? | ???? |
 | .NET 9 - New Features: GUIDs v7 | 2024-12-02 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-guids-v7-4ccc521475f4 |
+
+
+
+| C# 13 - New Features: the field keyword | 2024-11-22 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-a-palavra-chave-field-6cbcd783b951 |
+
+
 | ????? | ??? | ???? | ???? |
 | 2 Free Certifications in Project Documentation: LFC 111 and LFC112 | 2024-08-26 | ????<br/>Technologies and topics covered: OpenAPI, Project Documentation, DevOps, .NET, Swagger, Web Development... | https://renatogroffe.medium.com/2-certifica%C3%A7%C3%B5es-gratuitas-em-documenta%C3%A7%C3%A3o-de-projetos-lfc-111-e-lfc112-7845ebcfbd8b |
 | Visual Studio Code Tips: Mermaid documentation + sequence diagrams - Part 19 | 2024-07-15 | ????<br/>Technologies and topics covered: Visual Studio Code, Mermaid, UML, GitHub, Azure DevOps, Mobile  Development | https://renatogroffe.medium.com/dicas-de-visual-studio-code-documenta%C3%A7%C3%B5es-com-mermaid-diagramas-de-sequ%C3%AAncia-pt-19-949ac85e1a95 |
