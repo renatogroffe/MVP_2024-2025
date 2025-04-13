@@ -14,12 +14,8 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
-
-
-
-| .NET 10 - New Features: improvements in numerical ordering of strings | 2025-03-30 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-10-melhorias-na-ordena%C3%A7%C3%A3o-num%C3%A9rica-de-strings-c86cdac4d62e |
-
-
+| .NET 10 - New Features: improvements in numerical ordering of strings | 2025-03-30 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/novidades-do-net-10-melhorias-na-ordena%C3%A7%C3%A3o-num%C3%A9rica-de-strings-c86cdac4d62e |
+| .NET 10: First tests with Preview 1 + improvements in date handling with ISOWeek | 2025-03-01 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/net-10-primeiros-testes-com-o-preview-1-melhorias-na-manipula%C3%A7%C3%A3o-de-datas-com-isoweek-b40a16d08a16 |
 | ????? | ??? | ???? | ???? |
 | .NET 9 - New Features: GUIDs v7 | 2024-12-02 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-guids-v7-4ccc521475f4 |
 | ????? | ??? | ???? | ???? |
