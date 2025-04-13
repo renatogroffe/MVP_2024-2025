@@ -12,9 +12,13 @@ Main technologies covered: **.NET 7, .NET 8, .NET 9, ASP.NET Core, C# 11, C# 12,
 
 The table below describes each of the articles, including links to view each content.
 
+
+
+
+
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
-| .NET 8 + Dapper in 4 examples: 1:1 and 1:n relationships, monitoring, performance | 2024-04-23 | Article about new features of .NET 9. In this post I cover improvements involving serialization in JSON format: the possibility of configuring indentation in JsonSerializerOptions with the IndentCharacter and IndentSize properties.<br/>Technologies used: .NET 9, C#, Visual Studio 2022, Windows Terminal | https://renatogroffe.medium.com/net-8-dapper-em-4-exemplos-relacionamentos-1-1-e-1-n-monitoramento-performance-76df05f28e6e |
+| .NET 8 + Dapper in 4 examples: 1:1 and 1:n relationships, monitoring, performance | 2024-04-23 | Article with examples of data access implementation with Dapper -> SQL Server, PostgreSQL, SQLite, 1:1 and 1:n relationships, monitoring/instrumentation/logging of SQL statements with MiniProfiler, Bulk Copy with LinqToDB, tests with BenchmarkDotNet + Azure DevOps comparing performance with ADO and Entity Framework.<br/>Technologies used: .NET 8, C#, ASP.NET Core, Dapper, MiniProfiler, SQL Server, PostgreSQL, SQLite, Bogus, BenchmarkDotNet, Azure DevOps, Azure Pipelines, ADO.NET, Entity Framework Core | https://renatogroffe.medium.com/net-8-dapper-em-4-exemplos-relacionamentos-1-1-e-1-n-monitoramento-performance-76df05f28e6e |
 | .NET 9 - Reference Guide: Articles, Videos and Examples | 2024-04-01 | Article grouping free content such as other posts, videos and examples of using the new features of .NET 8.<br/>Technologies covered: .NET 8 C# 12, ASP.NET Core, Visual Studio Code, Visual Studio, Docker | https://renatogroffe.medium.com/net-9-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-084c7cf04055 |
 | ????? | ??? | ???? | ???? |
 | ????? | ??? | ???? | ???? |
