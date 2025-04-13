@@ -16,6 +16,9 @@ The table below describes each of the articles, including links to view each con
 | ------------ | ---- | ------------ | ---- |
 
 
+
+
+| .NET 9 - New Features: TimeSpan type improvements | 2024-06-03 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-no-tipo-timespan-b696d6666157 |
 | .NET 9 - New Features: improvement simplifying failed responses in Minimal APIs in ASP.NET Core | 2024-06-01 | ????<br/>Technologies covered: .NET 9, ASP.NET Core, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhoria-simplificando-respostas-com-falhas-em-minimal-apis-no-asp-net-core-19ccd5c7f39c |
 
 
