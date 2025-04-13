@@ -2,7 +2,9 @@
 
 Number of articles: **69**
 
-Blog where these articles were published: **https://renatogroffe.medium.com/**
+Blogs where these articles were published:
+- **https://renatogroffe.medium.com/**
+- **https://www.azurebrasil.cloud/author/renato/**
 
 Main technologies covered: **.NET 7, .NET 8, .NET 9, ASP.NET Core, C# 11, C# 12, Visual Studio 2022, Visual Studio Code, Azure DevOps, Minimal APIs, JWT, open source frameworks, Postman, k6...**
 
@@ -21,6 +23,7 @@ The table below describes each of the articles, including links to view each con
 | C# 13 - New Features: Overload resolution | 2025-01-06 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-overload-resolution-f0f01a6898c9 |
 | .NET 9 - New Features: GUIDs v7 | 2024-12-02 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-guids-v7-4ccc521475f4 |
 | C# 13 - New Features: the field keyword | 2024-11-22 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-a-palavra-chave-field-6cbcd783b951 |
+| GitHub Copilot + Mermaid: generate architectural diagrams in seconds! | 2024-11-14 | ????<br/>Technologies and topics covered: Mermaid, GitHub, GitHub Copilot, Visual Studio Code, Project Documentation, Web Development... | https://www.azurebrasil.cloud/github-copilot-mermaid-diagramas/ |
 | .NET 9 - New Features: improvements in Debug.Assert | 2024-11-13 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-em-debug-assert-a3efc6f07826 |
 | .NET 9 - New Features: the generic type ReadOnlySet<T> | 2024-11-04 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-o-tipo-gen%C3%A9rico-readonlyset-t-656d78549630 |
 | .NET 9 - New Features: improvements involving Base64 encoding | 2024-10-27 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-envolvendo-encoding-em-base64-2497430140ab |
