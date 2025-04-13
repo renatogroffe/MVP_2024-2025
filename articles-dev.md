@@ -18,6 +18,15 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
+
+
+| C# 13 - New Features: params collections | 2024-05-23 | ????<br/>Technologies covered: .NET 9, C# 13, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-params-collections-9c7add544d66 |
+
+
+| Visual Studio Code Tips: viewing JWT tokens, running scripts quickly - Part 18    .NET 9 - Reference Guide: Articles, Videos and Examples | 2024-05-02 | ?????????????<br/>Technologies and topics covered: Visual Studio Code, Developer Tools, JWT, Developer Security, PowerShell, Web Development... | https://renatogroffe.medium.com/dicas-de-visual-studio-code-visualizando-tokens-jwt-executando-scripts-rapidamente-pt-18-9a24d918a237 |
+
+
+
 | .NET 8 + Dapper in 4 examples: 1:1 and 1:n relationships, monitoring, performance | 2024-04-23 | Article with examples of data access implementation with Dapper -> SQL Server, PostgreSQL, SQLite, 1:1 and 1:n relationships, monitoring/instrumentation/logging of SQL statements with MiniProfiler, Bulk Copy with LinqToDB, tests with BenchmarkDotNet + Azure DevOps comparing performance with ADO and Entity Framework.<br/>Technologies used: .NET 8, C#, ASP.NET Core, Dapper, MiniProfiler, SQL Server, PostgreSQL, SQLite, Bogus, BenchmarkDotNet, Azure DevOps, Azure Pipelines, ADO.NET, Entity Framework Core | https://renatogroffe.medium.com/net-8-dapper-em-4-exemplos-relacionamentos-1-1-e-1-n-monitoramento-performance-76df05f28e6e |
 | .NET 9 - Reference Guide: Articles, Videos and Examples | 2024-04-01 | Article grouping free content such as other posts, videos and examples of using the new features of .NET 9.<br/>Technologies covered: .NET 9 C# 13, ASP.NET Core, Visual Studio Code, Visual Studio, Docker | https://renatogroffe.medium.com/net-9-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-084c7cf04055 |
 | ????? | ??? | ???? | ???? |
