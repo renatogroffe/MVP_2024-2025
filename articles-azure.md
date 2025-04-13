@@ -14,7 +14,7 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------| ---- | ------------ | ---- |
-| Free Certification: OWASP API Security Top 10 | 2024-04-15 | Article with an overview and tips from a certification I recently completed, free and online: API Security Fundamentals. It is an initiative by APIsec University, with free online training that can be completed easily in a few hours, covering topics such as good practices in the secure development of REST APIs, OWASP vulnerabilities, and ways to protect against attacks. | https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-owasp-api-security-top-10-49187dadd141 |
+| Free Certification: OWASP API Security Top 10 | 2024-04-15 | Article with an overview and tips from a certification I recently completed, free and online: OWASP API Security Top 10. It is an initiative by APIsec University, with free online training that can be completed easily in a few hours, covering topics such as good practices in the secure development of REST APIs, OWASP API Security Top 10 vulnerabilities, and ways to protect REST APIs against attacks.<br/>Technologies and topics covered: Azure API Management (APIM), Microsoft Azure services, REST APIs, OWASP API Security Top 10, .NET, Java, Node.js, Python... | https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-owasp-api-security-top-10-49187dadd141 |
 | ????? | ??? | ???? | ???? |
 | ????? | ??? | ???? | ???? |
 | ????? | ??? | ???? | ???? |
