@@ -12,10 +12,6 @@ Main technologies covered: **.NET 7, .NET 8, .NET 9, ASP.NET Core, C# 11, C# 12,
 
 The table below describes each of the articles, including links to view each content.
 
-
-
-
-
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
 | C# 13 - New Features: params collections | 2024-05-23 | ????<br/>Technologies covered: .NET 9, C# 13, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-params-collections-9c7add544d66 |
