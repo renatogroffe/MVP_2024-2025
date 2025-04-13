@@ -18,10 +18,10 @@ The table below describes each of the articles, including links to view each con
 | .NET 10: First tests with Preview 1 + improvements in date handling with ISOWeek | 2025-03-01 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/net-10-primeiros-testes-com-o-preview-1-melhorias-na-manipula%C3%A7%C3%A3o-de-datas-com-isoweek-b40a16d08a16 |
 | ????? | ??? | ???? | ???? |
 | .NET 9 - New Features: GUIDs v7 | 2024-12-02 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-guids-v7-4ccc521475f4 |
-
-
-
 | C# 13 - New Features: the field keyword | 2024-11-22 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-a-palavra-chave-field-6cbcd783b951 |
+| .NET 9 - New Features: improvements in Debug.Assert | 2024-11-13 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-em-debug-assert-a3efc6f07826 |
+
+
 
 
 | ????? | ??? | ???? | ???? |
