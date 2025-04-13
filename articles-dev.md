@@ -14,7 +14,7 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
-| Visual Studio Code Tips: Mermaid documentation + sequence diagrams - Part 19 | 2024-07-15 | ????<br/>Technologies covered: Visual Studio Code, Mermaid, UML, GitHub, Azure DevOps, Mobile  Development | https://renatogroffe.medium.com/dicas-de-visual-studio-code-documenta%C3%A7%C3%B5es-com-mermaid-diagramas-de-sequ%C3%AAncia-pt-19-949ac85e1a95 |
+| Visual Studio Code Tips: Mermaid documentation + sequence diagrams - Part 19 | 2024-07-15 | ????<br/>Technologies and topics covered: Visual Studio Code, Mermaid, UML, GitHub, Azure DevOps, Mobile  Development | https://renatogroffe.medium.com/dicas-de-visual-studio-code-documenta%C3%A7%C3%B5es-com-mermaid-diagramas-de-sequ%C3%AAncia-pt-19-949ac85e1a95 |
 | Visual Studio 2022: viewing the contents of JWT tokens while debugging | 2024-06-11 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022, Developer Security, JWT, .NET, C#, ASP.NET Core | https://renatogroffe.medium.com/visual-studio-2022-visualizando-o-conte%C3%BAdo-de-tokens-jwt-durante-o-debugging-b81f645e9c5d |
 | .NET 9 - New Features: TimeSpan type improvements | 2024-06-03 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-no-tipo-timespan-b696d6666157 |
 | .NET 9 - New Features: improvement simplifying failed responses in Minimal APIs in ASP.NET Core | 2024-06-01 | ????<br/>Technologies covered: .NET 9, ASP.NET Core, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhoria-simplificando-respostas-com-falhas-em-minimal-apis-no-asp-net-core-19ccd5c7f39c |
