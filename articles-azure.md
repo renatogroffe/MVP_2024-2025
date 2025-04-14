@@ -8,9 +8,9 @@ Blogs where these articles were published:
 
 Main technologies and topics covered: **Azure API Management, Azure Managed Grafana, Azure Kubernetes Service, Kubernetes, Docker, Azure Monitor, Application Insights, Log Analytics, Prometheus, Azure Container Apps, Azure Storage, Microsoft Entra ID...**
 
-**First repository published on April 15, 2024.**
+**First article published on April 15, 2024.**
 
-**Last repository published on February 10, 2025.**
+**Last article published on February 10, 2025.**
 
 The table below describes each of the articles, including links to view each content.
 
