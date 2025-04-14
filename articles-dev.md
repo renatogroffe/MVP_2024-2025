@@ -8,7 +8,7 @@ Blogs where these articles were published:
 
 Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 2022, Visual Studio Code, GitHub, GitHub Copilot, JWT, Mermaid, MySQL Minimal APIs...**
 
-**First repository published on April 3, 2023.**
+**First repository published on April 1, 2024.**
 
 **Last repository published on March 30, 2025.**
 
