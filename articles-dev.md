@@ -29,9 +29,7 @@ The table below describes each of the articles, including links to view each con
 | .NET 9 - New Features: improvements involving Base64 encoding | 2024-10-27 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-envolvendo-encoding-em-base64-2497430140ab |
 | C# 13 - Reference Guide: Articles, Videos and Examples | 2024-10-03 | Article grouping free content such as other posts, videos and examples of using the new features of C# 12.<br/>Technologies covered: C# 13, .NET 9, Visual Studio 2022 | https://renatogroffe.medium.com/c-13-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-61629b684179 |
 | .NET 9 - New Features: the generic type OrderedDictionary<TKey, TValue> | 2024-10-03 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-o-tipo-gen%C3%A9rico-ordereddictionary-tkey-tvalue-bf0ffa0a1af3 |
-
-
-
+| .NET 9 - New Features: manipulating item order with JsonObject | 2024-09-29 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022, JSON | https://renatogroffe.medium.com/novidades-do-net-9-manipulando-a-ordem-de-itens-com-jsonobject-88105191a223 |
 
 
 
