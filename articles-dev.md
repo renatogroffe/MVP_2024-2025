@@ -6,7 +6,7 @@ Blogs where these articles were published:
 - **https://renatogroffe.medium.com/**
 - **https://www.azurebrasil.cloud/author/renato/**
 
-Main technologies covered: **.NET 7, .NET 8, .NET 9, ASP.NET Core, C# 11, C# 12, Visual Studio 2022, Visual Studio Code, Azure DevOps, Minimal APIs, JWT, open source frameworks, Postman, k6...**
+Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 2022, Visual Studio Code, GitHub, GitHub Copilot, Mermaid, Minimal APIs...**
 
 **First repository published on April 3, 2023.**
 
@@ -31,10 +31,15 @@ The table below describes each of the articles, including links to view each con
 | .NET 9 - New Features: the generic type OrderedDictionary<TKey, TValue> | 2024-10-03 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-o-tipo-gen%C3%A9rico-ordereddictionary-tkey-tvalue-bf0ffa0a1af3 |
 
 
+
+
+
+
 | ????? | ??? | ???? | ???? |
 
 
 
+| C# 13 - New Features: Partial Properties | 2024-09-17 | ????<br/>Technologies covered: .NET 9, C# 13, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-partial-properties-51b4604e2bc1 |
 | Visual Studio Code Tips: MySQL support - Part 20 | 2024-09-07 | ????<br/>Technologies and topics covered: Visual Studio Code, MySQL, DevOps, Web Development... | https://renatogroffe.medium.com/dicas-de-visual-studio-code-suporte-ao-mysql-pt-20-72e13e7e9035 |
 | C# 13 - New Features: Collections initialization improvements | 2024-09-02 | ????<br/>Technologies covered: .NET 9, C# 13, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-c-13-melhorias-na-inicializa%C3%A7%C3%A3o-de-collections-e51ecf575718 |
 | 2 Free Certifications in Project Documentation: LFC 111 and LFC112 | 2024-08-26 | ????<br/>Technologies and topics covered: OpenAPI, Project Documentation, DevOps, .NET, Swagger, Web Development... | https://renatogroffe.medium.com/2-certifica%C3%A7%C3%B5es-gratuitas-em-documenta%C3%A7%C3%A3o-de-projetos-lfc-111-e-lfc112-7845ebcfbd8b |
