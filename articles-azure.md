@@ -1,6 +1,6 @@
 # Articles - Microsoft Azure
 
-Number of articles: **13**
+Number of articles: **9**
 
 Blogs where these articles were published:
 - **https://renatogroffe.medium.com/**
@@ -8,7 +8,7 @@ Blogs where these articles were published:
 
 Main technologies and topics covered: **Kubernetes, Azure Kubernetes Service, KEDA, Azure API Management, Azure Container Apps, Azure Functions, Application Insights, Azure Queue Storage, Linux, Helm, Azure Certifications...**
 
-**First repository published on April 8, 2023.**
+**First repository published on April 15, 2024.**
 
 **Last repository published on February 10, 2025.**
 
