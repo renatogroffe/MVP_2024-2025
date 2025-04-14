@@ -6,7 +6,7 @@ Blogs where these articles were published:
 - **https://renatogroffe.medium.com/**
 - **https://www.azurebrasil.cloud/author/renato/**
 
-Main technologies and topics covered: **Kubernetes, Azure Kubernetes Service, KEDA, Azure API Management, Azure Container Apps, Azure Functions, Application Insights, Azure Queue Storage, Linux, Helm, Azure Certifications...**
+Main technologies and topics covered: **Azure API Management, Azure Managed Grafana, Azure Kubernetes Service, Kubernetes, Docker, Azure Monitor, Application Insights, Log Analytics, Prometheus, Azure Container Apps, Azure Storage, Microsoft Entra ID...**
 
 **First repository published on April 15, 2024.**
 
