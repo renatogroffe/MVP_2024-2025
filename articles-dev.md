@@ -27,7 +27,8 @@ The table below describes each of the articles, including links to view each con
 | .NET 9 - New Features: improvements in Debug.Assert | 2024-11-13 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-em-debug-assert-a3efc6f07826 |
 | .NET 9 - New Features: the generic type ReadOnlySet<T> | 2024-11-04 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-o-tipo-gen%C3%A9rico-readonlyset-t-656d78549630 |
 | .NET 9 - New Features: improvements involving Base64 encoding | 2024-10-27 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-envolvendo-encoding-em-base64-2497430140ab |
-
+| C# 13 - Reference Guide: Articles, Videos and Examples | 2024-10-03 | Article grouping free content such as other posts, videos and examples of using the new features of C# 12.<br/>Technologies covered: C# 13, .NET 9, Visual Studio 2022 | https://renatogroffe.medium.com/c-13-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-61629b684179 |
+| .NET 9 - New Features: the generic type OrderedDictionary<TKey, TValue> | 2024-10-03 | ????<br/>Technologies covered: .NET 9, C#, Visual Studio 2022 | https://renatogroffe.medium.com/novidades-do-net-9-o-tipo-gen%C3%A9rico-ordereddictionary-tkey-tvalue-bf0ffa0a1af3 |
 
 
 | ????? | ??? | ???? | ???? |
