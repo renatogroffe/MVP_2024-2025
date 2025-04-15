@@ -6,7 +6,7 @@ Blogs where these articles were published:
 - **https://renatogroffe.medium.com/**
 - **https://www.azurebrasil.cloud/author/renato/**
 
-Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 2022, Visual Studio Code, GitHub, GitHub Copilot, JWT, Mermaid, MySQL Minimal APIs...**
+Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 2022, Visual Studio Code, GitHub, GitHub Copilot, JWT, Mermaid, MySQL, Minimal APIs...**
 
 **First repository published on April 1, 2024.**
 
